@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#21364e" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="코난 시청 순서" />
+    <meta name="description" content="명탐정 코난, 괴도키드, 닌자고의 방영 순서와 시청 기록을 관리하는 개인용 목록" />
+    <title>티빙 코난 시청 순서</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" type="image/png" sizes="192x192" href="./assets/icons/icon-192.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/icons/apple-touch-icon.png" />
+    <link rel="stylesheet" href="./styles.css?v=20261002-0002" />
+  </head>
+  <body>
+    <header class="app-header">
+      <button class="cover-button" id="libraryToggle" type="button" title="목록 선택" aria-label="목록 선택" aria-haspopup="dialog">
+        <img
+          class="cover"
+          id="coverImage"
+          src="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20241114/0538/P001682448.jpg/dims/resize/500"
+          alt=""
+        />
+      </button>
+      <div class="header-main">
+        <h1 id="appTitle">티빙 코난 시청 순서</h1>
+        <div class="progress-line">
+          <strong id="watchedCount">0</strong>
+          <span>/</span>
+          <span id="totalCount">0</span>
+          <span>완료</span>
+          <span class="dot"></span>
+          <span id="visibleCount">0</span>
+          <span>표시</span>
+        </div>
+        <div class="progress-track" aria-hidden="true">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+      </div>
+    </header>
+
+    <div class="library-dialog" id="libraryDialog" role="dialog" aria-modal="true" aria-labelledby="libraryDialogTitle" hidden>
+      <div class="library-dialog-panel">
+        <div class="library-dialog-head">
+          <h2 id="libraryDialogTitle">볼 작품 선택</h2>
+          <button class="dialog-close" id="libraryDialogClose" type="button" aria-label="닫기" title="닫기">×</button>
+        </div>
+        <div class="library-choices">
+          <button class="library-choice" type="button" data-library="conan">
+            <img src="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20241114/0538/P001682448.jpg/dims/resize/500" alt="" />
+            <span>명탐정 코난</span>
+            <small>티빙</small>
+          </button>
+          <button class="library-choice" type="button" data-library="kaito">
+            <img src="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20250511/2005/P001771267.jpg/dims/resize/500" alt="" />
+            <span>괴도키드 1412</span>
+            <small>티빙</small>
+          </button>
+          <button class="library-choice" type="button" data-library="ninjago">
+            <img src="https://occ-0-4796-993.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSAYeCxdkezjQgTN6DctXEORWq8_8gDnnL13Ag5qAP3DVluFtLtJ3ZeRAoAXvn2YWf4tCD0L4TkcXF9VmoYrWVMg_dnBWLJu921N.jpg?r=87a" alt="" />
+            <span>닌자고</span>
+            <small>전체 방영 순서 · 넷플릭스 링크</small>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <section class="controls" aria-label="보기 설정">
+      <label class="field search-field">
+        <span>검색</span>
+        <input id="searchInput" type="search" autocomplete="off" placeholder="제목 또는 작품명" />
+      </label>
+
+      <label class="field">
+        <span id="sourceFieldLabel">작품</span>
+        <select id="sourceFilter"></select>
+      </label>
+
+      <div class="segmented" role="group" aria-label="시청 상태">
+        <button class="segment is-active" type="button" data-filter="all">전체</button>
+        <button class="segment" type="button" data-filter="unwatched">미시청</button>
+        <button class="segment" type="button" data-filter="watched">O</button>
+        <button class="segment" type="button" data-filter="skipped">X</button>
+      </div>
+
+      <div class="history-actions" aria-label="변경 이력">
+        <button class="history-button" id="undoAction" type="button" title="실행 취소" aria-label="실행 취소" disabled>↶</button>
+        <button class="history-button" id="redoAction" type="button" title="실행 취소를 취소" aria-label="실행 취소를 취소" disabled>↷</button>
+      </div>
+
+      <div class="bulk" aria-label="범위 변경">
+        <label>
+          <span>from</span>
+          <input id="bulkStart" type="number" min="1" inputmode="numeric" />
+        </label>
+        <label>
+          <span>to</span>
+          <input id="bulkEnd" type="number" min="1" inputmode="numeric" />
+        </label>
+        <button id="bulkWatch" class="primary" type="button">O로 표시</button>
+        <button id="bulkClear" type="button">해제</button>
+      </div>
+
+      <button id="clearAll" class="danger" type="button">전체 해제</button>
+    </section>
+
+    <main class="table-shell">
+      <table>
+        <thead>
+          <tr>
+            <th class="col-no">순번</th>
+            <th class="col-check">O/X</th>
+            <th>제목</th>
+            <th class="col-jp-title" id="alternateTitleHeader">일본어 제목</th>
+            <th class="col-source" id="sourceHeader">티빙 작품명</th>
+            <th class="col-original" id="originalHeader">원작</th>
+            <th class="col-kind">링크 유형</th>
+          </tr>
+        </thead>
+        <tbody id="orderBody"></tbody>
+      </table>
+      <div id="emptyState" class="empty-state" hidden>표시할 항목이 없습니다.</div>
+    </main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <script src="./data.js?v=20261002-0001"></script>
+    <script src="./kaito_data.js?v=20261002-0001"></script>
+    <script src="./ninjago_data.js?v=20261013-0001"></script>
+    <script src="./app.js?v=20261011-0001"></script>
+  </body>
+</html>

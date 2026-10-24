@@ -1,0 +1,7 @@
+.tving_update_log.json
+__pycache__/
+*.pyc
+open_site.ps1
+server.py
+update_original_sources.py
+update_tving_data.py
