@@ -5376,8 +5376,8 @@ window.BLEACH_ITEMS = [
   },
   {
     "id": "bleach-tv-378",
-    "title": "천년혈전 12화 Everything But the Rain ",
-    "jpTitle": "Everything But the Rain ",
+    "title": "천년혈전 12화 Everything But the Rain \"June Truth\"",
+    "jpTitle": "Everything But the Rain \"June Truth\"",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
     "linkType": "작품 페이지",
