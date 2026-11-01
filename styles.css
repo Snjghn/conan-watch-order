@@ -1006,3 +1006,6 @@ tbody tr.is-black-organization .watch-control.is-skipped {
     border-radius: 6px;
   }
 }
+
+.library-notice { margin: 16px 28px; line-height: 1.7; color: #475569; }
+.library-notice[hidden] { display: none; }

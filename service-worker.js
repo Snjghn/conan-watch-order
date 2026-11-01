@@ -1,12 +1,13 @@
-const CACHE_NAME = "conan-watch-20261101-sync2";
+const CACHE_NAME = "conan-watch-20261101-bleach1";
 const CORE_ASSETS = [
   "./",
   "./index.html",
-  "./styles.css?v=20261101-sync2",
+  "./styles.css?v=20261101-bleach1",
   "./data.js?v=20261002-0001",
   "./kaito_data.js?v=20261002-0001",
   "./ninjago_data.js?v=20261013-0001",
-  "./app.js?v=20261101-sync2",
+  "./bleach_data.js?v=20261101-bleach1",
+  "./app.js?v=20261101-bleach1",
   "./supabase-config.js?v=20261101-sync2",
   "./sync.js?v=20261101-sync2",
   "./manifest.webmanifest",

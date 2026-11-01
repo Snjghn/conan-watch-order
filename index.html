@@ -8,12 +8,12 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="apple-mobile-web-app-title" content="코난 시청 순서" />
-    <meta name="description" content="명탐정 코난, 괴도키드, 닌자고의 방영 순서와 시청 기록을 관리하는 개인용 목록" />
+    <meta name="description" content="명탐정 코난, 괴도키드, 닌자고, 블리치의 방영 순서와 시청 기록을 관리하는 개인용 목록" />
     <title>티빙 코난 시청 순서</title>
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" type="image/png" sizes="192x192" href="./assets/icons/icon-192.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="./assets/icons/apple-touch-icon.png" />
-    <link rel="stylesheet" href="./styles.css?v=20261101-sync2" />
+    <link rel="stylesheet" href="./styles.css?v=20261101-bleach1" />
   </head>
   <body>
     <header class="app-header">
@@ -63,6 +63,11 @@
             <span>괴도키드 1412</span>
             <small>티빙</small>
           </button>
+          <button class="library-choice" type="button" data-library="bleach">
+            <img src="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20230308/P001702412.jpg/dims/resize/500" alt="" />
+            <span>블리치</span>
+            <small>일본 공개 순서 · 티빙 자막 우선</small>
+          </button>
           <button class="library-choice" type="button" data-library="ninjago">
             <img src="https://occ-0-4796-993.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSAYeCxdkezjQgTN6DctXEORWq8_8gDnnL13Ag5qAP3DVluFtLtJ3ZeRAoAXvn2YWf4tCD0L4TkcXF9VmoYrWVMg_dnBWLJu921N.jpg?r=87a" alt="" />
             <span>닌자고</span>
@@ -93,6 +98,8 @@
         <p class="account-message" id="accountMessage" role="status" aria-live="polite"></p>
       </div>
     </div>
+
+    <p id="libraryNotice" class="library-notice" hidden></p>
 
     <section class="controls" aria-label="보기 설정">
       <label class="field search-field">
@@ -156,7 +163,8 @@
     <script src="./data.js?v=20261002-0001"></script>
     <script src="./kaito_data.js?v=20261002-0001"></script>
     <script src="./ninjago_data.js?v=20261013-0001"></script>
-    <script src="./app.js?v=20261101-sync2"></script>
+    <script src="./bleach_data.js?v=20261101-bleach1"></script>
+    <script src="./app.js?v=20261101-bleach1"></script>
     <script src="./supabase-config.js?v=20261101-sync2"></script>
     <script type="module" src="./sync.js?v=20261101-sync2"></script>
   </body>

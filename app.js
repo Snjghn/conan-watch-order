@@ -257,6 +257,19 @@ const LIBRARIES = {
     originalHeader: "원작",
     sourceFieldLabel: "작품",
   },
+  bleach: {
+    id: "bleach",
+    title: "티빙 블리치 시청 순서",
+    switchLabel: "목록 선택",
+    cover: "https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20230308/P001702412.jpg/dims/resize/500",
+    items: Array.isArray(window.BLEACH_ITEMS) ? window.BLEACH_ITEMS : [],
+    storageKey: "bleach-tving-watch-state-v1",
+    notice: "일본 공개 순서: TVA 416화·극장판 4편·스페셜 3편·실사 1편. 부제는 원제를 사용합니다. 링크는 티빙 작품 페이지이며, 제공 미확인 항목은 링크가 없습니다.",
+    alternateTitleHeader: "원제",
+    sourceHeader: "티빙 작품명",
+    originalHeader: "일본 공개일",
+    sourceFieldLabel: "작품",
+  },
   ninjago: {
     id: "ninjago",
     title: "닌자고 전체 시청 순서",
@@ -390,6 +403,9 @@ function syncLibraryChrome() {
   document.body.dataset.library = library.id;
   document.title = library.title;
   els.appTitle.textContent = library.title;
+  const notice = document.querySelector("#libraryNotice");
+  notice.textContent = library.notice || "";
+  notice.hidden = !library.notice;
   els.coverImage.src = library.cover;
   els.coverImage.alt = `${library.title} 표지`;
   els.libraryToggle.title = library.switchLabel;
