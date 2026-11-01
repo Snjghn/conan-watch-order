@@ -1,4 +1,4 @@
-// Japanese premiere order. Research scope and caveats: BLEACH_SOURCES.md.
+// Japanese premiere order; display titles follow TVING. See BLEACH_SOURCES.md.
 window.BLEACH_ITEMS = [
   {
     "id": "bleach-ova-1",
@@ -14,9 +14,9 @@ window.BLEACH_ITEMS = [
   },
   {
     "id": "bleach-tv-1",
-    "title": "1화 死神になっちゃった日",
+    "title": "블리치 1기 1화",
     "jpTitle": "死神になっちゃった日",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-10-05",
@@ -24,13 +24,14 @@ window.BLEACH_ITEMS = [
     "episode": 1,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 2
+    "no": 2,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-2",
-    "title": "2화 死神のお仕事",
+    "title": "블리치 1기 2화",
     "jpTitle": "死神のお仕事",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-10-12",
@@ -38,13 +39,14 @@ window.BLEACH_ITEMS = [
     "episode": 2,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 3
+    "no": 3,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-3",
-    "title": "3화 兄の願い、妹の願い",
+    "title": "블리치 1기 3화",
     "jpTitle": "兄の願い、妹の願い",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-10-19",
@@ -52,13 +54,14 @@ window.BLEACH_ITEMS = [
     "episode": 3,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 4
+    "no": 4,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-4",
-    "title": "4화 呪いのインコ",
+    "title": "블리치 1기 4화",
     "jpTitle": "呪いのインコ",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-10-26",
@@ -66,13 +69,14 @@ window.BLEACH_ITEMS = [
     "episode": 4,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 5
+    "no": 5,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-5",
-    "title": "5화 見えない敵を殴れ！",
+    "title": "블리치 1기 5화",
     "jpTitle": "見えない敵を殴れ！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-11-02",
@@ -80,13 +84,14 @@ window.BLEACH_ITEMS = [
     "episode": 5,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 6
+    "no": 6,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-6",
-    "title": "6화 死闘！一護VSイチゴ",
+    "title": "블리치 1기 6화",
     "jpTitle": "死闘！一護VSイチゴ",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-11-09",
@@ -94,13 +99,14 @@ window.BLEACH_ITEMS = [
     "episode": 6,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 7
+    "no": 7,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-7",
-    "title": "7화 ぬいぐるみからコンにちは",
+    "title": "블리치 1기 7화",
     "jpTitle": "ぬいぐるみからコンにちは",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-11-16",
@@ -108,13 +114,14 @@ window.BLEACH_ITEMS = [
     "episode": 7,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 8
+    "no": 8,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-8",
-    "title": "8화 6月17日、雨の記憶",
+    "title": "블리치 1기 8화",
     "jpTitle": "6月17日、雨の記憶",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-11-23",
@@ -122,13 +129,14 @@ window.BLEACH_ITEMS = [
     "episode": 8,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 9
+    "no": 9,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-9",
-    "title": "9화 倒せない敵",
+    "title": "블리치 1기 9화",
     "jpTitle": "倒せない敵",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-11-30",
@@ -136,13 +144,14 @@ window.BLEACH_ITEMS = [
     "episode": 9,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 10
+    "no": 10,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-10",
-    "title": "10화 ぶらり霊場突撃の旅！",
+    "title": "블리치 1기 10화",
     "jpTitle": "ぶらり霊場突撃の旅！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-12-07",
@@ -150,13 +159,14 @@ window.BLEACH_ITEMS = [
     "episode": 10,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 11
+    "no": 11,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-11",
-    "title": "11화 伝説のクインシー",
+    "title": "블리치 1기 11화",
     "jpTitle": "伝説のクインシー",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-12-14",
@@ -164,13 +174,14 @@ window.BLEACH_ITEMS = [
     "episode": 11,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 12
+    "no": 12,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-12",
-    "title": "12화 やさしい右腕",
+    "title": "블리치 1기 12화",
     "jpTitle": "やさしい右腕",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-12-21",
@@ -178,13 +189,14 @@ window.BLEACH_ITEMS = [
     "episode": 12,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 13
+    "no": 13,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-13",
-    "title": "13화 花とホロウ",
+    "title": "블리치 1기 13화",
     "jpTitle": "花とホロウ",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2004-12-28",
@@ -192,13 +204,14 @@ window.BLEACH_ITEMS = [
     "episode": 13,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 14
+    "no": 14,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-14",
-    "title": "14화 背中合わせの死闘！",
+    "title": "블리치 1기 14화",
     "jpTitle": "背中合わせの死闘！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-01-11",
@@ -206,13 +219,14 @@ window.BLEACH_ITEMS = [
     "episode": 14,
     "seasonEpisode": 14,
     "category": "tva",
-    "no": 15
+    "no": 15,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-15",
-    "title": "15화 コンのウハウハ大作戦",
+    "title": "블리치 1기 15화",
     "jpTitle": "コンのウハウハ大作戦",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-01-18",
@@ -220,13 +234,14 @@ window.BLEACH_ITEMS = [
     "episode": 15,
     "seasonEpisode": 15,
     "category": "tva",
-    "no": 16
+    "no": 16,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-16",
-    "title": "16화 阿散井恋次、見参！",
+    "title": "블리치 1기 16화",
     "jpTitle": "阿散井恋次、見参！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-01-25",
@@ -234,13 +249,14 @@ window.BLEACH_ITEMS = [
     "episode": 16,
     "seasonEpisode": 16,
     "category": "tva",
-    "no": 17
+    "no": 17,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-17",
-    "title": "17화 一護、死す！",
+    "title": "블리치 1기 17화",
     "jpTitle": "一護、死す！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-02-01",
@@ -248,13 +264,14 @@ window.BLEACH_ITEMS = [
     "episode": 17,
     "seasonEpisode": 17,
     "category": "tva",
-    "no": 18
+    "no": 18,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-18",
-    "title": "18화 取り戻せ！死神の力！",
+    "title": "블리치 1기 18화",
     "jpTitle": "取り戻せ！死神の力！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-02-08",
@@ -262,13 +279,14 @@ window.BLEACH_ITEMS = [
     "episode": 18,
     "seasonEpisode": 18,
     "category": "tva",
-    "no": 19
+    "no": 19,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-19",
-    "title": "19화 一護、ホロウに墜ちる！",
+    "title": "블리치 1기 19화",
     "jpTitle": "一護、ホロウに墜ちる！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-02-15",
@@ -276,13 +294,14 @@ window.BLEACH_ITEMS = [
     "episode": 19,
     "seasonEpisode": 19,
     "category": "tva",
-    "no": 20
+    "no": 20,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-20",
-    "title": "20화 市丸ギンの影",
+    "title": "블리치 1기 20화",
     "jpTitle": "市丸ギンの影",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-02-22",
@@ -290,13 +309,14 @@ window.BLEACH_ITEMS = [
     "episode": 20,
     "seasonEpisode": 20,
     "category": "tva",
-    "no": 21
+    "no": 21,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-21",
-    "title": "21화 突入！死神の世界",
+    "title": "블리치 1기 21화",
     "jpTitle": "突入！死神の世界",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-03-01",
@@ -304,13 +324,14 @@ window.BLEACH_ITEMS = [
     "episode": 21,
     "seasonEpisode": 21,
     "category": "tva",
-    "no": 22
+    "no": 22,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-22",
-    "title": "22화 死神を憎む男",
+    "title": "블리치 1기 22화",
     "jpTitle": "死神を憎む男",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-03-08",
@@ -318,13 +339,14 @@ window.BLEACH_ITEMS = [
     "episode": 22,
     "seasonEpisode": 22,
     "category": "tva",
-    "no": 23
+    "no": 23,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-23",
-    "title": "23화 ルキア処刑、14日前",
+    "title": "블리치 1기 23화",
     "jpTitle": "ルキア処刑、14日前",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-03-15",
@@ -332,13 +354,14 @@ window.BLEACH_ITEMS = [
     "episode": 23,
     "seasonEpisode": 23,
     "category": "tva",
-    "no": 24
+    "no": 24,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-24",
-    "title": "24화 結集！護廷13隊",
+    "title": "블리치 1기 24화",
     "jpTitle": "結集！護廷13隊",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-03-22",
@@ -346,13 +369,14 @@ window.BLEACH_ITEMS = [
     "episode": 24,
     "seasonEpisode": 24,
     "category": "tva",
-    "no": 25
+    "no": 25,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-25",
-    "title": "25화 巨大砲弾で中央突破？",
+    "title": "블리치 1기 25화",
     "jpTitle": "巨大砲弾で中央突破？",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-03-29",
@@ -360,13 +384,14 @@ window.BLEACH_ITEMS = [
     "episode": 25,
     "seasonEpisode": 25,
     "category": "tva",
-    "no": 26
+    "no": 26,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-26",
-    "title": "26화 結成！最悪のタッグ",
+    "title": "블리치 1기 26화",
     "jpTitle": "結成！最悪のタッグ",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-04-05",
@@ -374,13 +399,14 @@ window.BLEACH_ITEMS = [
     "episode": 26,
     "seasonEpisode": 26,
     "category": "tva",
-    "no": 27
+    "no": 27,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-27",
-    "title": "27화 必殺の一撃を放て！",
+    "title": "블리치 1기 27화",
     "jpTitle": "必殺の一撃を放て！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-04-12",
@@ -388,13 +414,14 @@ window.BLEACH_ITEMS = [
     "episode": 27,
     "seasonEpisode": 27,
     "category": "tva",
-    "no": 28
+    "no": 28,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-28",
-    "title": "28화 狙われた織姫",
+    "title": "블리치 1기 28화",
     "jpTitle": "狙われた織姫",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-04-19",
@@ -402,13 +429,14 @@ window.BLEACH_ITEMS = [
     "episode": 28,
     "seasonEpisode": 28,
     "category": "tva",
-    "no": 29
+    "no": 29,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-29",
-    "title": "29화 突破せよ！死神包囲網",
+    "title": "블리치 1기 29화",
     "jpTitle": "突破せよ！死神包囲網",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-04-26",
@@ -416,13 +444,14 @@ window.BLEACH_ITEMS = [
     "episode": 29,
     "seasonEpisode": 29,
     "category": "tva",
-    "no": 30
+    "no": 30,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-30",
-    "title": "30화 立ちはだかる恋次",
+    "title": "블리치 1기 30화",
     "jpTitle": "立ちはだかる恋次",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-05-03",
@@ -430,13 +459,14 @@ window.BLEACH_ITEMS = [
     "episode": 30,
     "seasonEpisode": 30,
     "category": "tva",
-    "no": 31
+    "no": 31,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-31",
-    "title": "31화 斬る為の覚悟",
+    "title": "블리치 1기 31화",
     "jpTitle": "斬る為の覚悟",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-05-10",
@@ -444,13 +474,14 @@ window.BLEACH_ITEMS = [
     "episode": 31,
     "seasonEpisode": 31,
     "category": "tva",
-    "no": 32
+    "no": 32,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-32",
-    "title": "32화 星と野良犬",
+    "title": "블리치 1기 32화",
     "jpTitle": "星と野良犬",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-05-17",
@@ -458,13 +489,14 @@ window.BLEACH_ITEMS = [
     "episode": 32,
     "seasonEpisode": 32,
     "category": "tva",
-    "no": 33
+    "no": 33,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-33",
-    "title": "33화 奇跡！謎の新ヒーロー",
+    "title": "블리치 1기 33화",
     "jpTitle": "奇跡！謎の新ヒーロー",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-05-26",
@@ -472,13 +504,14 @@ window.BLEACH_ITEMS = [
     "episode": 33,
     "seasonEpisode": 33,
     "category": "tva",
-    "no": 34
+    "no": 34,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-34",
-    "title": "34화 夜明けの惨劇",
+    "title": "블리치 1기 34화",
     "jpTitle": "夜明けの惨劇",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-06-01",
@@ -486,13 +519,14 @@ window.BLEACH_ITEMS = [
     "episode": 34,
     "seasonEpisode": 34,
     "category": "tva",
-    "no": 35
+    "no": 35,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-35",
-    "title": "35화 藍染暗殺！忍び寄る闇",
+    "title": "블리치 1기 35화",
     "jpTitle": "藍染暗殺！忍び寄る闇",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-06-07",
@@ -500,13 +534,14 @@ window.BLEACH_ITEMS = [
     "episode": 35,
     "seasonEpisode": 35,
     "category": "tva",
-    "no": 36
+    "no": 36,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-36",
-    "title": "36화 更木剣八、迫る！",
+    "title": "블리치 1기 36화",
     "jpTitle": "更木剣八、迫る！",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-06-14",
@@ -514,13 +549,14 @@ window.BLEACH_ITEMS = [
     "episode": 36,
     "seasonEpisode": 36,
     "category": "tva",
-    "no": 37
+    "no": 37,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-37",
-    "title": "37화 拳の理由",
+    "title": "블리치 1기 37화",
     "jpTitle": "拳の理由",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-06-21",
@@ -528,13 +564,14 @@ window.BLEACH_ITEMS = [
     "episode": 37,
     "seasonEpisode": 37,
     "category": "tva",
-    "no": 38
+    "no": 38,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-38",
-    "title": "38화 絶体絶命! 折られた斬月",
+    "title": "블리치 1기 38화",
     "jpTitle": "絶体絶命! 折られた斬月",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-06-28",
@@ -542,13 +579,14 @@ window.BLEACH_ITEMS = [
     "episode": 38,
     "seasonEpisode": 38,
     "category": "tva",
-    "no": 39
+    "no": 39,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-39",
-    "title": "39화 不死身の男",
+    "title": "블리치 1기 39화",
     "jpTitle": "不死身の男",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-07-05",
@@ -556,13 +594,14 @@ window.BLEACH_ITEMS = [
     "episode": 39,
     "seasonEpisode": 39,
     "category": "tva",
-    "no": 40
+    "no": 40,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-40",
-    "title": "40화 岩鷲の見た死神",
+    "title": "블리치 1기 40화",
     "jpTitle": "岩鷲の見た死神",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-07-12",
@@ -570,13 +609,14 @@ window.BLEACH_ITEMS = [
     "episode": 40,
     "seasonEpisode": 40,
     "category": "tva",
-    "no": 41
+    "no": 41,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-41",
-    "title": "41화 再会、一護とルキア",
+    "title": "블리치 1기 41화",
     "jpTitle": "再会、一護とルキア",
-    "source": "블리치 1기 (자막)",
+    "source": "블리치 1기",
     "url": "https://www.tving.com/contents/P001702412",
     "linkType": "작품 페이지",
     "original": "2005-07-19",
@@ -584,13 +624,14 @@ window.BLEACH_ITEMS = [
     "episode": 41,
     "seasonEpisode": 41,
     "category": "tva",
-    "no": 42
+    "no": 42,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-42",
-    "title": "42화 瞬神夜一、舞う！",
+    "title": "블리치 2기 1화",
     "jpTitle": "瞬神夜一、舞う！",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-07-26",
@@ -598,13 +639,14 @@ window.BLEACH_ITEMS = [
     "episode": 42,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 43
+    "no": 43,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-43",
-    "title": "43화 卑劣な死神",
+    "title": "블리치 2기 2화",
     "jpTitle": "卑劣な死神",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-08-02",
@@ -612,13 +654,14 @@ window.BLEACH_ITEMS = [
     "episode": 43,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 44
+    "no": 44,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-44",
-    "title": "44화 石田、極限の力！",
+    "title": "블리치 2기 3화",
     "jpTitle": "石田、極限の力！",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-08-09",
@@ -626,13 +669,14 @@ window.BLEACH_ITEMS = [
     "episode": 44,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 45
+    "no": 45,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-45",
-    "title": "45화 限界を越えろ！",
+    "title": "블리치 2기 4화",
     "jpTitle": "限界を越えろ！",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-08-16",
@@ -640,13 +684,14 @@ window.BLEACH_ITEMS = [
     "episode": 45,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 46
+    "no": 46,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-46",
-    "title": "46화 実録！死神の学校",
+    "title": "블리치 2기 5화",
     "jpTitle": "実録！死神の学校",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-08-23",
@@ -654,13 +699,14 @@ window.BLEACH_ITEMS = [
     "episode": 46,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 47
+    "no": 47,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-47",
-    "title": "47화 仇討つ者たち",
+    "title": "블리치 2기 6화",
     "jpTitle": "仇討つ者たち",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-08-30",
@@ -668,13 +714,14 @@ window.BLEACH_ITEMS = [
     "episode": 47,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 48
+    "no": 48,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-48",
-    "title": "48화 日番谷、吼える！",
+    "title": "블리치 2기 7화",
     "jpTitle": "日番谷、吼える！",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-09-06",
@@ -682,13 +729,14 @@ window.BLEACH_ITEMS = [
     "episode": 48,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 49
+    "no": 49,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-49",
-    "title": "49화 ルキアの悪夢",
+    "title": "블리치 2기 8화",
     "jpTitle": "ルキアの悪夢",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-09-13",
@@ -696,13 +744,14 @@ window.BLEACH_ITEMS = [
     "episode": 49,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 50
+    "no": 50,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-50",
-    "title": "50화 よみがえる獅子",
+    "title": "블리치 2기 9화",
     "jpTitle": "よみがえる獅子",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-09-20",
@@ -710,7 +759,8 @@ window.BLEACH_ITEMS = [
     "episode": 50,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 51
+    "no": 51,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-ova-2",
@@ -726,9 +776,9 @@ window.BLEACH_ITEMS = [
   },
   {
     "id": "bleach-tv-51",
-    "title": "51화 処刑の朝",
+    "title": "블리치 2기 10화",
     "jpTitle": "処刑の朝",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-09-27",
@@ -736,13 +786,14 @@ window.BLEACH_ITEMS = [
     "episode": 51,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 53
+    "no": 53,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-52",
-    "title": "52화 恋次、魂の誓い！白哉との死闘",
+    "title": "블리치 2기 11화",
     "jpTitle": "恋次、魂の誓い！白哉との死闘",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-10-04",
@@ -750,13 +801,14 @@ window.BLEACH_ITEMS = [
     "episode": 52,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 54
+    "no": 54,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-53",
-    "title": "53화 市丸ギンの誘惑、崩された覚悟",
+    "title": "블리치 2기 12화",
     "jpTitle": "市丸ギンの誘惑、崩された覚悟",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-10-04",
@@ -764,13 +816,14 @@ window.BLEACH_ITEMS = [
     "episode": 53,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 55
+    "no": 55,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-54",
-    "title": "54화 果たされる誓い！ルキア奪還なるか",
+    "title": "블리치 2기 13화",
     "jpTitle": "果たされる誓い！ルキア奪還なるか",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-10-18",
@@ -778,13 +831,14 @@ window.BLEACH_ITEMS = [
     "episode": 54,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 56
+    "no": 56,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-55",
-    "title": "55화 最強の死神！究極の師弟対決",
+    "title": "블리치 2기 14화",
     "jpTitle": "最強の死神！究極の師弟対決",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-10-25",
@@ -792,13 +846,14 @@ window.BLEACH_ITEMS = [
     "episode": 55,
     "seasonEpisode": 14,
     "category": "tva",
-    "no": 57
+    "no": 57,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-56",
-    "title": "56화 超速の戦い！武の女神、決す",
+    "title": "블리치 2기 15화",
     "jpTitle": "超速の戦い！武の女神、決す",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-11-01",
@@ -806,13 +861,14 @@ window.BLEACH_ITEMS = [
     "episode": 56,
     "seasonEpisode": 15,
     "category": "tva",
-    "no": 58
+    "no": 58,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-57",
-    "title": "57화 千本桜、粉砕！天を衝く斬月",
+    "title": "블리치 2기 16화",
     "jpTitle": "千本桜、粉砕！天を衝く斬月",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-11-08",
@@ -820,13 +876,14 @@ window.BLEACH_ITEMS = [
     "episode": 57,
     "seasonEpisode": 16,
     "category": "tva",
-    "no": 59
+    "no": 59,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-58",
-    "title": "58화 開放！黒き刃、奇跡の力",
+    "title": "블리치 2기 17화",
     "jpTitle": "開放！黒き刃、奇跡の力",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-11-15",
@@ -834,13 +891,14 @@ window.BLEACH_ITEMS = [
     "episode": 58,
     "seasonEpisode": 17,
     "category": "tva",
-    "no": 60
+    "no": 60,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-59",
-    "title": "59화 死闘決着！白き誇りと黒き想い",
+    "title": "블리치 2기 18화",
     "jpTitle": "死闘決着！白き誇りと黒き想い",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-11-22",
@@ -848,13 +906,14 @@ window.BLEACH_ITEMS = [
     "episode": 59,
     "seasonEpisode": 18,
     "category": "tva",
-    "no": 61
+    "no": 61,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-60",
-    "title": "60화 絶望の真実、振り下ろされた凶刃",
+    "title": "블리치 2기 19화",
     "jpTitle": "絶望の真実、振り下ろされた凶刃",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-12-06",
@@ -862,13 +921,14 @@ window.BLEACH_ITEMS = [
     "episode": 60,
     "seasonEpisode": 19,
     "category": "tva",
-    "no": 62
+    "no": 62,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-61",
-    "title": "61화 藍染、立つ！恐るべき野望",
+    "title": "블리치 2기 20화",
     "jpTitle": "藍染、立つ！恐るべき野望",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-12-13",
@@ -876,13 +936,14 @@ window.BLEACH_ITEMS = [
     "episode": 61,
     "seasonEpisode": 20,
     "category": "tva",
-    "no": 63
+    "no": 63,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-62",
-    "title": "62화 集結せよ！最強の死神集団",
+    "title": "블리치 2기 21화",
     "jpTitle": "集結せよ！最強の死神集団",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2005-12-20",
@@ -890,13 +951,14 @@ window.BLEACH_ITEMS = [
     "episode": 62,
     "seasonEpisode": 21,
     "category": "tva",
-    "no": 64
+    "no": 64,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-63",
-    "title": "63화 ルキアの決意、一護の想い",
+    "title": "블리치 2기 22화",
     "jpTitle": "ルキアの決意、一護の想い",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-01-10",
@@ -904,13 +966,14 @@ window.BLEACH_ITEMS = [
     "episode": 63,
     "seasonEpisode": 22,
     "category": "tva",
-    "no": 65
+    "no": 65,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-64",
-    "title": "64화 新学期、現世に恋次がやって来た!?",
+    "title": "블리치 2기 23화",
     "jpTitle": "新学期、現世に恋次がやって来た!?",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-01-17",
@@ -918,13 +981,14 @@ window.BLEACH_ITEMS = [
     "episode": 64,
     "seasonEpisode": 23,
     "category": "tva",
-    "no": 66
+    "no": 66,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-65",
-    "title": "65화 忍び寄る恐怖、2番目の犠牲者",
+    "title": "블리치 2기 24화",
     "jpTitle": "忍び寄る恐怖、2番目の犠牲者",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-01-24",
@@ -932,13 +996,14 @@ window.BLEACH_ITEMS = [
     "episode": 65,
     "seasonEpisode": 24,
     "category": "tva",
-    "no": 67
+    "no": 67,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-66",
-    "title": "66화 突破せよ！迷宮に潜む罠",
+    "title": "블리치 2기 25화",
     "jpTitle": "突破せよ！迷宮に潜む罠",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-01-31",
@@ -946,13 +1011,14 @@ window.BLEACH_ITEMS = [
     "episode": 66,
     "seasonEpisode": 25,
     "category": "tva",
-    "no": 68
+    "no": 68,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-67",
-    "title": "67화 死のゲーム！消えるクラスメイト",
+    "title": "블리치 2기 26화",
     "jpTitle": "死のゲーム！消えるクラスメイト",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-02-07",
@@ -960,13 +1026,14 @@ window.BLEACH_ITEMS = [
     "episode": 67,
     "seasonEpisode": 26,
     "category": "tva",
-    "no": 69
+    "no": 69,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-68",
-    "title": "68화 悪魔の正体、明かされた秘密",
+    "title": "블리치 2기 27화",
     "jpTitle": "悪魔の正体、明かされた秘密",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-02-14",
@@ -974,13 +1041,14 @@ window.BLEACH_ITEMS = [
     "episode": 68,
     "seasonEpisode": 27,
     "category": "tva",
-    "no": 70
+    "no": 70,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-69",
-    "title": "69화 バウント！魂を狩る者たち",
+    "title": "블리치 2기 28화",
     "jpTitle": "バウント！魂を狩る者たち",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-02-14",
@@ -988,13 +1056,14 @@ window.BLEACH_ITEMS = [
     "episode": 69,
     "seasonEpisode": 28,
     "category": "tva",
-    "no": 71
+    "no": 71,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-70",
-    "title": "70화 ルキアの帰還！代行チーム復活",
+    "title": "블리치 2기 29화",
     "jpTitle": "ルキアの帰還！代行チーム復活",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-02-21",
@@ -1002,13 +1071,14 @@ window.BLEACH_ITEMS = [
     "episode": 70,
     "seasonEpisode": 29,
     "category": "tva",
-    "no": 72
+    "no": 72,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-71",
-    "title": "71화 激突の時！クインシーに迫る魔の手",
+    "title": "블리치 2기 30화",
     "jpTitle": "激突の時！クインシーに迫る魔の手",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-03-07",
@@ -1016,13 +1086,14 @@ window.BLEACH_ITEMS = [
     "episode": 71,
     "seasonEpisode": 30,
     "category": "tva",
-    "no": 73
+    "no": 73,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-72",
-    "title": "72화 水の攻撃！閉ざされた病院からの脱出",
+    "title": "블리치 2기 31화",
     "jpTitle": "水の攻撃！閉ざされた病院からの脱出",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-03-14",
@@ -1030,13 +1101,14 @@ window.BLEACH_ITEMS = [
     "episode": 72,
     "seasonEpisode": 31,
     "category": "tva",
-    "no": 74
+    "no": 74,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-73",
-    "title": "73화 バウント集結！動き出す男",
+    "title": "블리치 2기 32화",
     "jpTitle": "バウント集結！動き出す男",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-03-28",
@@ -1044,13 +1116,14 @@ window.BLEACH_ITEMS = [
     "episode": 73,
     "seasonEpisode": 32,
     "category": "tva",
-    "no": 75
+    "no": 75,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-74",
-    "title": "74화 永遠を生きる一族の記憶",
+    "title": "블리치 2기 33화",
     "jpTitle": "永遠を生きる一族の記憶",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-03-28",
@@ -1058,13 +1131,14 @@ window.BLEACH_ITEMS = [
     "episode": 74,
     "seasonEpisode": 33,
     "category": "tva",
-    "no": 76
+    "no": 76,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-75",
-    "title": "75화 十一番隊激震！よみがえった死神",
+    "title": "블리치 2기 34화",
     "jpTitle": "十一番隊激震！よみがえった死神",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-04-04",
@@ -1072,13 +1146,14 @@ window.BLEACH_ITEMS = [
     "episode": 75,
     "seasonEpisode": 34,
     "category": "tva",
-    "no": 77
+    "no": 77,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-76",
-    "title": "76화 力の激突！フリードVS斬月",
+    "title": "블리치 2기 35화",
     "jpTitle": "力の激突！フリードVS斬月",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-04-04",
@@ -1086,13 +1161,14 @@ window.BLEACH_ITEMS = [
     "episode": 76,
     "seasonEpisode": 35,
     "category": "tva",
-    "no": 78
+    "no": 78,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-77",
-    "title": "77화 消えぬ怨念！剣八が斬った死神",
+    "title": "블리치 2기 36화",
     "jpTitle": "消えぬ怨念！剣八が斬った死神",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-04-11",
@@ -1100,13 +1176,14 @@ window.BLEACH_ITEMS = [
     "episode": 77,
     "seasonEpisode": 36,
     "category": "tva",
-    "no": 79
+    "no": 79,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-78",
-    "title": "78화 護廷十三隊驚愕!!歴史に埋もれた真実",
+    "title": "블리치 2기 37화",
     "jpTitle": "護廷十三隊驚愕!!歴史に埋もれた真実",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-05-02",
@@ -1114,13 +1191,14 @@ window.BLEACH_ITEMS = [
     "episode": 78,
     "seasonEpisode": 37,
     "category": "tva",
-    "no": 80
+    "no": 80,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-79",
-    "title": "79화 芳野、死をかけた想い",
+    "title": "블리치 2기 38화",
     "jpTitle": "芳野、死をかけた想い",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-05-09",
@@ -1128,13 +1206,14 @@ window.BLEACH_ITEMS = [
     "episode": 79,
     "seasonEpisode": 38,
     "category": "tva",
-    "no": 81
+    "no": 81,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-80",
-    "title": "80화 強敵の急襲！小さな最終防衛線!?",
+    "title": "블리치 2기 39화",
     "jpTitle": "強敵の急襲！小さな最終防衛線!?",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-05-16",
@@ -1142,13 +1221,14 @@ window.BLEACH_ITEMS = [
     "episode": 80,
     "seasonEpisode": 39,
     "category": "tva",
-    "no": 82
+    "no": 82,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-81",
-    "title": "81화 日番谷動く！襲われた街",
+    "title": "블리치 2기 40화",
     "jpTitle": "日番谷動く！襲われた街",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-05-23",
@@ -1156,13 +1236,14 @@ window.BLEACH_ITEMS = [
     "episode": 81,
     "seasonEpisode": 40,
     "category": "tva",
-    "no": 83
+    "no": 83,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-82",
-    "title": "82화 一護VSダルク！白き闇の出現",
+    "title": "블리치 2기 41화",
     "jpTitle": "一護VSダルク！白き闇の出現",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-05-30",
@@ -1170,13 +1251,14 @@ window.BLEACH_ITEMS = [
     "episode": 82,
     "seasonEpisode": 41,
     "category": "tva",
-    "no": 84
+    "no": 84,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-83",
-    "title": "83화 灰色の影、ドールの秘密",
+    "title": "블리치 2기 42화",
     "jpTitle": "灰色の影、ドールの秘密",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-06-06",
@@ -1184,13 +1266,14 @@ window.BLEACH_ITEMS = [
     "episode": 83,
     "seasonEpisode": 42,
     "category": "tva",
-    "no": 85
+    "no": 85,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-84",
-    "title": "84화 代行チーム分裂？裏切ったルキア",
+    "title": "블리치 2기 43화",
     "jpTitle": "代行チーム分裂？裏切ったルキア",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-06-13",
@@ -1198,13 +1281,14 @@ window.BLEACH_ITEMS = [
     "episode": 84,
     "seasonEpisode": 43,
     "category": "tva",
-    "no": 86
+    "no": 86,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-85",
-    "title": "85화 涙の死闘！ルキアVS織姫",
+    "title": "블리치 2기 44화",
     "jpTitle": "涙の死闘！ルキアVS織姫",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-06-13",
@@ -1212,13 +1296,14 @@ window.BLEACH_ITEMS = [
     "episode": 85,
     "seasonEpisode": 44,
     "category": "tva",
-    "no": 87
+    "no": 87,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-86",
-    "title": "86화 乱菊舞う！見えない敵を斬れ",
+    "title": "블리치 2기 45화",
     "jpTitle": "乱菊舞う！見えない敵を斬れ",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-06-20",
@@ -1226,13 +1311,14 @@ window.BLEACH_ITEMS = [
     "episode": 86,
     "seasonEpisode": 45,
     "category": "tva",
-    "no": 88
+    "no": 88,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-87",
-    "title": "87화 白哉召集！動き出す護廷十三隊",
+    "title": "블리치 2기 46화",
     "jpTitle": "白哉召集！動き出す護廷十三隊",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-07-04",
@@ -1240,13 +1326,14 @@ window.BLEACH_ITEMS = [
     "episode": 87,
     "seasonEpisode": 46,
     "category": "tva",
-    "no": 89
+    "no": 89,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-88",
-    "title": "88화 副隊長全滅!?地下洞窟の罠",
+    "title": "블리치 2기 47화",
     "jpTitle": "副隊長全滅!?地下洞窟の罠",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-07-11",
@@ -1254,13 +1341,14 @@ window.BLEACH_ITEMS = [
     "episode": 88,
     "seasonEpisode": 47,
     "category": "tva",
-    "no": 90
+    "no": 90,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-89",
-    "title": "89화 再戦!?石田VSネム",
+    "title": "블리치 2기 48화",
     "jpTitle": "再戦!?石田VSネム",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-07-18",
@@ -1268,13 +1356,14 @@ window.BLEACH_ITEMS = [
     "episode": 89,
     "seasonEpisode": 48,
     "category": "tva",
-    "no": 91
+    "no": 91,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-90",
-    "title": "90화 阿散井恋次、魂の卍解！",
+    "title": "블리치 2기 49화",
     "jpTitle": "阿散井恋次、魂の卍解！",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-07-25",
@@ -1282,13 +1371,14 @@ window.BLEACH_ITEMS = [
     "episode": 90,
     "seasonEpisode": 49,
     "category": "tva",
-    "no": 92
+    "no": 92,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-91",
-    "title": "91화 死神とクインシー、よみがえる力",
+    "title": "블리치 2기 50화",
     "jpTitle": "死神とクインシー、よみがえる力",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-08-01",
@@ -1296,13 +1386,14 @@ window.BLEACH_ITEMS = [
     "episode": 91,
     "seasonEpisode": 50,
     "category": "tva",
-    "no": 93
+    "no": 93,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-92",
-    "title": "92화 死神世界への突入、再び",
+    "title": "블리치 2기 51화",
     "jpTitle": "死神世界への突入、再び",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-08-08",
@@ -1310,13 +1401,14 @@ window.BLEACH_ITEMS = [
     "episode": 92,
     "seasonEpisode": 51,
     "category": "tva",
-    "no": 94
+    "no": 94,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-93",
-    "title": "93화 バウント強襲！激震の護廷十三隊",
+    "title": "블리치 2기 52화",
     "jpTitle": "バウント強襲！激震の護廷十三隊",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-08-15",
@@ -1324,13 +1416,14 @@ window.BLEACH_ITEMS = [
     "episode": 93,
     "seasonEpisode": 52,
     "category": "tva",
-    "no": 95
+    "no": 95,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-94",
-    "title": "94화 日番谷の決意！激突の時迫る",
+    "title": "블리치 2기 53화",
     "jpTitle": "日番谷の決意！激突の時迫る",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-08-22",
@@ -1338,13 +1431,14 @@ window.BLEACH_ITEMS = [
     "episode": 94,
     "seasonEpisode": 53,
     "category": "tva",
-    "no": 96
+    "no": 96,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-95",
-    "title": "95화 白哉出陣！風を裂く桜の舞",
+    "title": "블리치 2기 54화",
     "jpTitle": "白哉出陣！風を裂く桜の舞",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-09-05",
@@ -1352,13 +1446,14 @@ window.BLEACH_ITEMS = [
     "episode": 95,
     "seasonEpisode": 54,
     "category": "tva",
-    "no": 97
+    "no": 97,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-96",
-    "title": "96화 一護・白哉・狩矢、三極の戦い！",
+    "title": "블리치 2기 55화",
     "jpTitle": "一護・白哉・狩矢、三極の戦い！",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-09-12",
@@ -1366,13 +1461,14 @@ window.BLEACH_ITEMS = [
     "episode": 96,
     "seasonEpisode": 55,
     "category": "tva",
-    "no": 98
+    "no": 98,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-97",
-    "title": "97화 日番谷出撃！森の中の敵を斬れ",
+    "title": "블리치 2기 56화",
     "jpTitle": "日番谷出撃！森の中の敵を斬れ",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-09-19",
@@ -1380,13 +1476,14 @@ window.BLEACH_ITEMS = [
     "episode": 97,
     "seasonEpisode": 56,
     "category": "tva",
-    "no": 99
+    "no": 99,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-98",
-    "title": "98화 激突！更木剣八VS一之瀬真樹",
+    "title": "블리치 2기 57화",
     "jpTitle": "激突！更木剣八VS一之瀬真樹",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-10-04",
@@ -1394,13 +1491,14 @@ window.BLEACH_ITEMS = [
     "episode": 98,
     "seasonEpisode": 57,
     "category": "tva",
-    "no": 100
+    "no": 100,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-99",
-    "title": "99화 死神VS死神！暴走する力",
+    "title": "블리치 2기 58화",
     "jpTitle": "死神VS死神！暴走する力",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-10-11",
@@ -1408,13 +1506,14 @@ window.BLEACH_ITEMS = [
     "episode": 99,
     "seasonEpisode": 58,
     "category": "tva",
-    "no": 101
+    "no": 101,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-100",
-    "title": "100화 砕蜂死す？隠密機動の最後",
+    "title": "블리치 2기 59화",
     "jpTitle": "砕蜂死す？隠密機動の最後",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-10-18",
@@ -1422,13 +1521,14 @@ window.BLEACH_ITEMS = [
     "episode": 100,
     "seasonEpisode": 59,
     "category": "tva",
-    "no": 102
+    "no": 102,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-101",
-    "title": "101화 マユリ卍解!!沢渡・悪魔の激突",
+    "title": "블리치 2기 60화",
     "jpTitle": "マユリ卍解!!沢渡・悪魔の激突",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-11-01",
@@ -1436,13 +1536,14 @@ window.BLEACH_ITEMS = [
     "episode": 101,
     "seasonEpisode": 60,
     "category": "tva",
-    "no": 103
+    "no": 103,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-102",
-    "title": "102화 最後のクインシー！暴発する力",
+    "title": "블리치 2기 61화",
     "jpTitle": "最後のクインシー！暴発する力",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-11-08",
@@ -1450,13 +1551,14 @@ window.BLEACH_ITEMS = [
     "episode": 102,
     "seasonEpisode": 61,
     "category": "tva",
-    "no": 104
+    "no": 104,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-103",
-    "title": "103화 石田、限界を超えて撃て！",
+    "title": "블리치 2기 62화",
     "jpTitle": "石田、限界を超えて撃て！",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-11-15",
@@ -1464,13 +1566,14 @@ window.BLEACH_ITEMS = [
     "episode": 103,
     "seasonEpisode": 62,
     "category": "tva",
-    "no": 105
+    "no": 105,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-104",
-    "title": "104화 死闘十番隊！氷輪丸を放て",
+    "title": "블리치 2기 63화",
     "jpTitle": "死闘十番隊！氷輪丸を放て",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-11-22",
@@ -1478,13 +1581,14 @@ window.BLEACH_ITEMS = [
     "episode": 104,
     "seasonEpisode": 63,
     "category": "tva",
-    "no": 106
+    "no": 106,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-105",
-    "title": "105화 狩矢！爆発へのカウントダウン",
+    "title": "블리치 2기 64화",
     "jpTitle": "狩矢！爆発へのカウントダウン",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-11-29",
@@ -1492,13 +1596,14 @@ window.BLEACH_ITEMS = [
     "episode": 105,
     "seasonEpisode": 64,
     "category": "tva",
-    "no": 107
+    "no": 107,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-106",
-    "title": "106화 命と復讐！石田、究極の選択",
+    "title": "블리치 2기 65화",
     "jpTitle": "命と復讐！石田、究極の選択",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-12-06",
@@ -1506,13 +1611,14 @@ window.BLEACH_ITEMS = [
     "episode": 106,
     "seasonEpisode": 65,
     "category": "tva",
-    "no": 108
+    "no": 108,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-107",
-    "title": "107화 振り下ろされた刃！破滅の瞬間",
+    "title": "블리치 2기 66화",
     "jpTitle": "振り下ろされた刃！破滅の瞬間",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-12-13",
@@ -1520,7 +1626,8 @@ window.BLEACH_ITEMS = [
     "episode": 107,
     "seasonEpisode": 66,
     "category": "tva",
-    "no": 109
+    "no": 109,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-movie-1",
@@ -1536,9 +1643,9 @@ window.BLEACH_ITEMS = [
   },
   {
     "id": "bleach-tv-108",
-    "title": "108화 慟哭のバウント！最後の激突",
+    "title": "블리치 2기 67화",
     "jpTitle": "慟哭のバウント！最後の激突",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2006-12-20",
@@ -1546,13 +1653,14 @@ window.BLEACH_ITEMS = [
     "episode": 108,
     "seasonEpisode": 67,
     "category": "tva",
-    "no": 111
+    "no": 111,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-109",
-    "title": "109화 一護とルキア、廻天する想い",
+    "title": "블리치 2기 68화",
     "jpTitle": "一護とルキア、廻天する想い",
-    "source": "블리치 2기 (자막)",
+    "source": "블리치 2기",
     "url": "https://www.tving.com/contents/P001705628",
     "linkType": "작품 페이지",
     "original": "2007-01-04",
@@ -1560,13 +1668,14 @@ window.BLEACH_ITEMS = [
     "episode": 109,
     "seasonEpisode": 68,
     "category": "tva",
-    "no": 112
+    "no": 112,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-110",
-    "title": "110화 代行業再開！恐怖の転校生",
+    "title": "블리치 3기 1화",
     "jpTitle": "代行業再開！恐怖の転校生",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-01-10",
@@ -1574,13 +1683,14 @@ window.BLEACH_ITEMS = [
     "episode": 110,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 113
+    "no": 113,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-111",
-    "title": "111화 驚愕！親父達の正体",
+    "title": "블리치 3기 2화",
     "jpTitle": "驚愕！親父達の正体",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-01-17",
@@ -1588,13 +1698,14 @@ window.BLEACH_ITEMS = [
     "episode": 111,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 114
+    "no": 114,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-112",
-    "title": "112화 戦いの始まり、仮面の軍勢と破面",
+    "title": "블리치 3기 3화",
     "jpTitle": "戦いの始まり、仮面の軍勢と破面",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-01-24",
@@ -1602,13 +1713,14 @@ window.BLEACH_ITEMS = [
     "episode": 112,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 115
+    "no": 115,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-113",
-    "title": "113화 世界崩壊への序曲、アランカル襲来！",
+    "title": "블리치 3기 4화",
     "jpTitle": "世界崩壊への序曲、アランカル襲来！",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-01-31",
@@ -1616,13 +1728,14 @@ window.BLEACH_ITEMS = [
     "episode": 113,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 116
+    "no": 116,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-114",
-    "title": "114화 再会、一護とルキアと死神たち",
+    "title": "블리치 3기 5화",
     "jpTitle": "再会、一護とルキアと死神たち",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-02-07",
@@ -1630,13 +1743,14 @@ window.BLEACH_ITEMS = [
     "episode": 114,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 117
+    "no": 117,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-115",
-    "title": "115화 特命！やってきた死神たち",
+    "title": "블리치 3기 6화",
     "jpTitle": "特命！やってきた死神たち",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-02-14",
@@ -1644,13 +1758,14 @@ window.BLEACH_ITEMS = [
     "episode": 115,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 118
+    "no": 118,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-116",
-    "title": "116화 悪しき瞳、藍染再び",
+    "title": "블리치 3기 7화",
     "jpTitle": "悪しき瞳、藍染再び",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-02-21",
@@ -1658,13 +1773,14 @@ window.BLEACH_ITEMS = [
     "episode": 116,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 119
+    "no": 119,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-117",
-    "title": "117화 ルキア戦闘開始！凍りつく白い刃",
+    "title": "블리치 3기 8화",
     "jpTitle": "ルキア戦闘開始！凍りつく白い刃",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-02-28",
@@ -1672,13 +1788,14 @@ window.BLEACH_ITEMS = [
     "episode": 117,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 120
+    "no": 120,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-118",
-    "title": "118화 一角卍解！全てを砕く力",
+    "title": "블리치 3기 9화",
     "jpTitle": "一角卍解！全てを砕く力",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-03-07",
@@ -1686,13 +1803,14 @@ window.BLEACH_ITEMS = [
     "episode": 118,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 121
+    "no": 121,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-119",
-    "title": "119화 更木隊秘話！ツイている男たち",
+    "title": "블리치 3기 10화",
     "jpTitle": "更木隊秘話！ツイている男たち",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-03-21",
@@ -1700,13 +1818,14 @@ window.BLEACH_ITEMS = [
     "episode": 119,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 122
+    "no": 122,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-120",
-    "title": "120화 日番谷散る！砕けた氷輪丸",
+    "title": "블리치 3기 11화",
     "jpTitle": "日番谷散る！砕けた氷輪丸",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-03-28",
@@ -1714,13 +1833,14 @@ window.BLEACH_ITEMS = [
     "episode": 120,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 123
+    "no": 123,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-121",
-    "title": "121화 激突！護る者VS被る者",
+    "title": "블리치 3기 12화",
     "jpTitle": "激突！護る者VS被る者",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-04-11",
@@ -1728,13 +1848,14 @@ window.BLEACH_ITEMS = [
     "episode": 121,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 124
+    "no": 124,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-122",
-    "title": "122화 ヴァイザード！目覚めし者たちの力",
+    "title": "블리치 3기 13화",
     "jpTitle": "ヴァイザード！目覚めし者たちの力",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-04-18",
@@ -1742,13 +1863,14 @@ window.BLEACH_ITEMS = [
     "episode": 122,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 125
+    "no": 125,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-123",
-    "title": "123화 一護、完全ホロウ化!?",
+    "title": "블리치 3기 14화",
     "jpTitle": "一護、完全ホロウ化!?",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-04-25",
@@ -1756,13 +1878,14 @@ window.BLEACH_ITEMS = [
     "episode": 123,
     "seasonEpisode": 14,
     "category": "tva",
-    "no": 126
+    "no": 126,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-124",
-    "title": "124화 激突！黒い卍解と白い卍解",
+    "title": "블리치 3기 15화",
     "jpTitle": "激突！黒い卍解と白い卍解",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-05-02",
@@ -1770,13 +1893,14 @@ window.BLEACH_ITEMS = [
     "episode": 124,
     "seasonEpisode": 15,
     "category": "tva",
-    "no": 127
+    "no": 127,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-125",
-    "title": "125화 緊急報告！藍染の恐るべき計画",
+    "title": "블리치 3기 16화",
     "jpTitle": "緊急報告！藍染の恐るべき計画",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-05-09",
@@ -1784,13 +1908,14 @@ window.BLEACH_ITEMS = [
     "episode": 125,
     "seasonEpisode": 16,
     "category": "tva",
-    "no": 128
+    "no": 128,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-126",
-    "title": "126화 雨竜VS竜弦！激突クインシー親子",
+    "title": "블리치 3기 17화",
     "jpTitle": "雨竜VS竜弦！激突クインシー親子",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-05-16",
@@ -1798,13 +1923,14 @@ window.BLEACH_ITEMS = [
     "episode": 126,
     "seasonEpisode": 17,
     "category": "tva",
-    "no": 129
+    "no": 129,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-127",
-    "title": "127화 浦原の決断、織姫の想い",
+    "title": "블리치 3기 18화",
     "jpTitle": "浦原の決断、織姫の想い",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-05-30",
@@ -1812,13 +1938,14 @@ window.BLEACH_ITEMS = [
     "episode": 127,
     "seasonEpisode": 18,
     "category": "tva",
-    "no": 130
+    "no": 130,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-128",
-    "title": "128화 悪夢のアランカル！日番谷隊出撃",
+    "title": "블리치 3기 19화",
     "jpTitle": "悪夢のアランカル！日番谷隊出撃",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-06-06",
@@ -1826,13 +1953,14 @@ window.BLEACH_ITEMS = [
     "episode": 128,
     "seasonEpisode": 19,
     "category": "tva",
-    "no": 131
+    "no": 131,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-129",
-    "title": "129화 舞い降りた闇の使者！増殖する悪意",
+    "title": "블리치 3기 20화",
     "jpTitle": "舞い降りた闇の使者！増殖する悪意",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-06-13",
@@ -1840,13 +1968,14 @@ window.BLEACH_ITEMS = [
     "episode": 129,
     "seasonEpisode": 20,
     "category": "tva",
-    "no": 132
+    "no": 132,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-130",
-    "title": "130화 見えない敵！日番谷、非情な決断",
+    "title": "블리치 3기 21화",
     "jpTitle": "見えない敵！日番谷、非情な決断",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-06-20",
@@ -1854,13 +1983,14 @@ window.BLEACH_ITEMS = [
     "episode": 130,
     "seasonEpisode": 21,
     "category": "tva",
-    "no": 133
+    "no": 133,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-131",
-    "title": "131화 乱菊の涙、哀しき兄妹の別れ",
+    "title": "블리치 3기 22화",
     "jpTitle": "乱菊の涙、哀しき兄妹の別れ",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-06-27",
@@ -1868,13 +1998,14 @@ window.BLEACH_ITEMS = [
     "episode": 131,
     "seasonEpisode": 22,
     "category": "tva",
-    "no": 134
+    "no": 134,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-132",
-    "title": "132화 日番谷と夏梨とサッカーボール",
+    "title": "블리치 3기 23화",
     "jpTitle": "日番谷と夏梨とサッカーボール",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-07-04",
@@ -1882,13 +2013,14 @@ window.BLEACH_ITEMS = [
     "episode": 132,
     "seasonEpisode": 23,
     "category": "tva",
-    "no": 135
+    "no": 135,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-133",
-    "title": "133화 一角、熱血剣道物語",
+    "title": "블리치 3기 24화",
     "jpTitle": "一角、熱血剣道物語",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-07-11",
@@ -1896,13 +2028,14 @@ window.BLEACH_ITEMS = [
     "episode": 133,
     "seasonEpisode": 24,
     "category": "tva",
-    "no": 136
+    "no": 136,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-134",
-    "title": "134화 美しきパティシエ、弓親！",
+    "title": "블리치 3기 25화",
     "jpTitle": "美しきパティシエ、弓親！",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-07-18",
@@ -1910,13 +2043,14 @@ window.BLEACH_ITEMS = [
     "episode": 134,
     "seasonEpisode": 25,
     "category": "tva",
-    "no": 137
+    "no": 137,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-135",
-    "title": "135화 はかられたコン！乱菊は見ていた…",
+    "title": "블리치 3기 26화",
     "jpTitle": "はかられたコン！乱菊は見ていた…",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-07-25",
@@ -1924,13 +2058,14 @@ window.BLEACH_ITEMS = [
     "episode": 135,
     "seasonEpisode": 26,
     "category": "tva",
-    "no": 138
+    "no": 138,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-136",
-    "title": "136화 ウェコムンド内乱！ウルキオラの死",
+    "title": "블리치 3기 27화",
     "jpTitle": "ウェコムンド内乱！ウルキオラの死",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-08-08",
@@ -1938,13 +2073,14 @@ window.BLEACH_ITEMS = [
     "episode": 136,
     "seasonEpisode": 27,
     "category": "tva",
-    "no": 139
+    "no": 139,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-137",
-    "title": "137화 悪意の戦い、藍染の罠",
+    "title": "블리치 3기 28화",
     "jpTitle": "悪意の戦い、藍染の罠",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-08-22",
@@ -1952,13 +2088,14 @@ window.BLEACH_ITEMS = [
     "episode": 137,
     "seasonEpisode": 28,
     "category": "tva",
-    "no": 140
+    "no": 140,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-138",
-    "title": "138화 ウェコムンド再動！日番谷VSヤミー",
+    "title": "블리치 3기 29화",
     "jpTitle": "ウェコムンド再動！日番谷VSヤミー",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-08-29",
@@ -1966,13 +2103,14 @@ window.BLEACH_ITEMS = [
     "episode": 138,
     "seasonEpisode": 29,
     "category": "tva",
-    "no": 141
+    "no": 141,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-139",
-    "title": "139화 一護VSグリムジョー、11秒の戦い",
+    "title": "블리치 3기 30화",
     "jpTitle": "一護VSグリムジョー、11秒の戦い",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-09-05",
@@ -1980,13 +2118,14 @@ window.BLEACH_ITEMS = [
     "episode": 139,
     "seasonEpisode": 30,
     "category": "tva",
-    "no": 142
+    "no": 142,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-140",
-    "title": "140화 策謀のウルキオラ、太陽が沈む時",
+    "title": "블리치 3기 31화",
     "jpTitle": "策謀のウルキオラ、太陽が沈む時",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-09-12",
@@ -1994,13 +2133,14 @@ window.BLEACH_ITEMS = [
     "episode": 140,
     "seasonEpisode": 31,
     "category": "tva",
-    "no": 143
+    "no": 143,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-141",
-    "title": "141화 さようなら…、黒崎くん",
+    "title": "블리치 3기 32화",
     "jpTitle": "さようなら…、黒崎くん",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-09-19",
@@ -2008,13 +2148,14 @@ window.BLEACH_ITEMS = [
     "episode": 141,
     "seasonEpisode": 32,
     "category": "tva",
-    "no": 144
+    "no": 144,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-142",
-    "title": "142화 厳命！井上織姫ノ救出ヲ禁ズ",
+    "title": "블리치 3기 33화",
     "jpTitle": "厳命！井上織姫ノ救出ヲ禁ズ",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-09-26",
@@ -2022,13 +2163,14 @@ window.BLEACH_ITEMS = [
     "episode": 142,
     "seasonEpisode": 33,
     "category": "tva",
-    "no": 145
+    "no": 145,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-143",
-    "title": "143화 復活のグリムジョー",
+    "title": "블리치 3기 34화",
     "jpTitle": "復活のグリムジョー",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-10-03",
@@ -2036,13 +2178,14 @@ window.BLEACH_ITEMS = [
     "episode": 143,
     "seasonEpisode": 34,
     "category": "tva",
-    "no": 146
+    "no": 146,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-144",
-    "title": "144화 石田・チャド、新しき力の胎動",
+    "title": "블리치 3기 35화",
     "jpTitle": "石田・チャド、新しき力の胎動",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-10-17",
@@ -2050,13 +2193,14 @@ window.BLEACH_ITEMS = [
     "episode": 144,
     "seasonEpisode": 35,
     "category": "tva",
-    "no": 147
+    "no": 147,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-145",
-    "title": "145화 エスパーダ集結！藍染の御前会議",
+    "title": "블리치 3기 36화",
     "jpTitle": "エスパーダ集結！藍染の御前会議",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-10-24",
@@ -2064,13 +2208,14 @@ window.BLEACH_ITEMS = [
     "episode": 145,
     "seasonEpisode": 36,
     "category": "tva",
-    "no": 148
+    "no": 148,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-146",
-    "title": "146화 その名はネル！不思議なアランカル登場",
+    "title": "블리치 3기 37화",
     "jpTitle": "その名はネル！不思議なアランカル登場",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-10-31",
@@ -2078,13 +2223,14 @@ window.BLEACH_ITEMS = [
     "episode": 146,
     "seasonEpisode": 37,
     "category": "tva",
-    "no": 149
+    "no": 149,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-147",
-    "title": "147화 メノスの森！消えたルキアを探せ",
+    "title": "블리치 3기 38화",
     "jpTitle": "メノスの森！消えたルキアを探せ",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-11-07",
@@ -2092,13 +2238,14 @@ window.BLEACH_ITEMS = [
     "episode": 147,
     "seasonEpisode": 38,
     "category": "tva",
-    "no": 150
+    "no": 150,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-148",
-    "title": "148화 アシド、過去から来た死神",
+    "title": "블리치 3기 39화",
     "jpTitle": "アシド、過去から来た死神",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-11-14",
@@ -2106,13 +2253,14 @@ window.BLEACH_ITEMS = [
     "episode": 148,
     "seasonEpisode": 39,
     "category": "tva",
-    "no": 151
+    "no": 151,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-149",
-    "title": "149화 崩れ行く森、百万のメノス",
+    "title": "블리치 3기 40화",
     "jpTitle": "崩れ行く森、百万のメノス",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-11-21",
@@ -2120,13 +2268,14 @@ window.BLEACH_ITEMS = [
     "episode": 149,
     "seasonEpisode": 40,
     "category": "tva",
-    "no": 152
+    "no": 152,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-150",
-    "title": "150화 誓い！再び生きてこの場所へ",
+    "title": "블리치 3기 41화",
     "jpTitle": "誓い！再び生きてこの場所へ",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-11-28",
@@ -2134,13 +2283,14 @@ window.BLEACH_ITEMS = [
     "episode": 150,
     "seasonEpisode": 41,
     "category": "tva",
-    "no": 153
+    "no": 153,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-151",
-    "title": "151화 吹き荒れる暴風！踊るアランカルとの遭遇",
+    "title": "블리치 3기 42화",
     "jpTitle": "吹き荒れる暴風！踊るアランカルとの遭遇",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-12-05",
@@ -2148,13 +2298,14 @@ window.BLEACH_ITEMS = [
     "episode": 151,
     "seasonEpisode": 42,
     "category": "tva",
-    "no": 154
+    "no": 154,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-152",
-    "title": "152화 一護反撃！こいつが俺の卍解だ",
+    "title": "블리치 3기 43화",
     "jpTitle": "一護反撃！こいつが俺の卍解だ",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-12-12",
@@ -2162,13 +2313,14 @@ window.BLEACH_ITEMS = [
     "episode": 152,
     "seasonEpisode": 43,
     "category": "tva",
-    "no": 155
+    "no": 155,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-153",
-    "title": "153화 悪魔の研究！ザエルアポロの企み",
+    "title": "블리치 3기 44화",
     "jpTitle": "悪魔の研究！ザエルアポロの企み",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-12-19",
@@ -2176,25 +2328,27 @@ window.BLEACH_ITEMS = [
     "episode": 153,
     "seasonEpisode": 44,
     "category": "tva",
-    "no": 156
+    "no": 156,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-movie-2",
-    "title": "극장판 2기 다이아몬드 더스트 리벨리온",
+    "title": "극장판 블리치 2기 : 다이아몬드 더스트 리벨리온",
     "jpTitle": "The DiamondDust Rebellion",
-    "source": "극장판 블리치 2기 : 다이아몬드 더스트 리벨리온 (자막)",
+    "source": "극장판 블리치 2기 : 다이아몬드 더스트 리벨리온",
     "url": "https://www.tving.com/contents/M000341335",
     "linkType": "작품 페이지",
     "original": "2007-12-22",
     "releaseDate": "2007-12-22",
     "category": "movie",
-    "no": 157
+    "no": 157,
+    "titleBasis": "tving-content-title"
   },
   {
     "id": "bleach-tv-154",
-    "title": "154화 ルキアと海燕、哀しみの再会",
+    "title": "블리치 3기 45화",
     "jpTitle": "ルキアと海燕、哀しみの再会",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2007-12-26",
@@ -2202,13 +2356,14 @@ window.BLEACH_ITEMS = [
     "episode": 154,
     "seasonEpisode": 45,
     "category": "tva",
-    "no": 158
+    "no": 158,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-155",
-    "title": "155화 ルキア反撃！決死の鬼道を放て",
+    "title": "블리치 3기 46화",
     "jpTitle": "ルキア反撃！決死の鬼道を放て",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-01-09",
@@ -2216,13 +2371,14 @@ window.BLEACH_ITEMS = [
     "episode": 155,
     "seasonEpisode": 46,
     "category": "tva",
-    "no": 159
+    "no": 159,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-156",
-    "title": "156화 石田&ペッシェ、友情の合体攻撃",
+    "title": "블리치 3기 47화",
     "jpTitle": "石田&ペッシェ、友情の合体攻撃",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-01-16",
@@ -2230,13 +2386,14 @@ window.BLEACH_ITEMS = [
     "episode": 156,
     "seasonEpisode": 47,
     "category": "tva",
-    "no": 160
+    "no": 160,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-157",
-    "title": "157화 石田の切り札、魂を切り裂くもの",
+    "title": "블리치 3기 48화",
     "jpTitle": "石田の切り札、魂を切り裂くもの",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-01-23",
@@ -2244,13 +2401,14 @@ window.BLEACH_ITEMS = [
     "episode": 157,
     "seasonEpisode": 48,
     "category": "tva",
-    "no": 161
+    "no": 161,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-158",
-    "title": "158화 巨人の右腕、悪魔の左腕",
+    "title": "블리치 3기 49화",
     "jpTitle": "巨人の右腕、悪魔の左腕",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-01-30",
@@ -2258,13 +2416,14 @@ window.BLEACH_ITEMS = [
     "episode": 158,
     "seasonEpisode": 49,
     "category": "tva",
-    "no": 162
+    "no": 162,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-159",
-    "title": "159화 茶渡泰虎死す！織姫の涙",
+    "title": "블리치 3기 50화",
     "jpTitle": "茶渡泰虎死す！織姫の涙",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-02-06",
@@ -2272,13 +2431,14 @@ window.BLEACH_ITEMS = [
     "episode": 159,
     "seasonEpisode": 50,
     "category": "tva",
-    "no": 163
+    "no": 163,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-160",
-    "title": "160화 遺言、心はここに…",
+    "title": "블리치 3기 51화",
     "jpTitle": "遺言、心はここに…",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-02-13",
@@ -2286,13 +2446,14 @@ window.BLEACH_ITEMS = [
     "episode": 160,
     "seasonEpisode": 51,
     "category": "tva",
-    "no": 164
+    "no": 164,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-161",
-    "title": "161화 残酷な破面、ウルキオラの挑発",
+    "title": "블리치 3기 52화",
     "jpTitle": "残酷な破面、ウルキオラの挑発",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-02-20",
@@ -2300,13 +2461,14 @@ window.BLEACH_ITEMS = [
     "episode": 161,
     "seasonEpisode": 52,
     "category": "tva",
-    "no": 165
+    "no": 165,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-162",
-    "title": "162화 笑うザエルアポロ、恋次包囲網完成",
+    "title": "블리치 3기 53화",
     "jpTitle": "笑うザエルアポロ、恋次包囲網完成",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-02-27",
@@ -2314,13 +2476,14 @@ window.BLEACH_ITEMS = [
     "episode": 162,
     "seasonEpisode": 53,
     "category": "tva",
-    "no": 166
+    "no": 166,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-163",
-    "title": "163화 死神とクインシー、狂気との戦い",
+    "title": "블리치 3기 54화",
     "jpTitle": "死神とクインシー、狂気との戦い",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-03-05",
@@ -2328,13 +2491,14 @@ window.BLEACH_ITEMS = [
     "episode": 163,
     "seasonEpisode": 54,
     "category": "tva",
-    "no": 167
+    "no": 167,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-164",
-    "title": "164화 石田の作戦、20秒の攻防",
+    "title": "블리치 3기 55화",
     "jpTitle": "石田の作戦、20秒の攻防",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-03-12",
@@ -2342,13 +2506,14 @@ window.BLEACH_ITEMS = [
     "episode": 164,
     "seasonEpisode": 55,
     "category": "tva",
-    "no": 168
+    "no": 168,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-165",
-    "title": "165화 殺意沸騰！歓喜のグリムジョー",
+    "title": "블리치 3기 56화",
     "jpTitle": "殺意沸騰！歓喜のグリムジョー",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-03-19",
@@ -2356,13 +2521,14 @@ window.BLEACH_ITEMS = [
     "episode": 165,
     "seasonEpisode": 56,
     "category": "tva",
-    "no": 169
+    "no": 169,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-166",
-    "title": "166화 死力VS死力！ホロウ化した一護",
+    "title": "블리치 3기 57화",
     "jpTitle": "死力VS死力！ホロウ化した一護",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-04-09",
@@ -2370,13 +2536,14 @@ window.BLEACH_ITEMS = [
     "episode": 166,
     "seasonEpisode": 57,
     "category": "tva",
-    "no": 170
+    "no": 170,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-167",
-    "title": "167화 決着の時、グリムジョーの最後",
+    "title": "블리치 3기 58화",
     "jpTitle": "決着の時、グリムジョーの最後",
-    "source": "블리치 3기 (자막)",
+    "source": "블리치 3기",
     "url": "https://www.tving.com/contents/P001705753",
     "linkType": "작품 페이지",
     "original": "2008-04-16",
@@ -2384,13 +2551,14 @@ window.BLEACH_ITEMS = [
     "episode": 167,
     "seasonEpisode": 58,
     "category": "tva",
-    "no": 171
+    "no": 171,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-168",
-    "title": "168화 新隊長登場！その名前は天貝繍助",
+    "title": "블리치 4기 1화",
     "jpTitle": "新隊長登場！その名前は天貝繍助",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-04-23",
@@ -2398,13 +2566,14 @@ window.BLEACH_ITEMS = [
     "episode": 168,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 172
+    "no": 172,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-169",
-    "title": "169화 新展開、危険な転校生現る！",
+    "title": "블리치 4기 2화",
     "jpTitle": "新展開、危険な転校生現る！",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-05-07",
@@ -2412,13 +2581,14 @@ window.BLEACH_ITEMS = [
     "episode": 169,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 173
+    "no": 173,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-170",
-    "title": "170화 月夜の死闘、謎の刺客と斬魄刀",
+    "title": "블리치 4기 3화",
     "jpTitle": "月夜の死闘、謎の刺客と斬魄刀",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-05-14",
@@ -2426,13 +2596,14 @@ window.BLEACH_ITEMS = [
     "episode": 170,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 174
+    "no": 174,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-171",
-    "title": "171화 犬龍、咲き乱れる紅の華",
+    "title": "블리치 4기 4화",
     "jpTitle": "犬龍、咲き乱れる紅の華",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-05-21",
@@ -2440,13 +2611,14 @@ window.BLEACH_ITEMS = [
     "episode": 171,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 175
+    "no": 175,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-172",
-    "title": "172화 貴船出陣！吹き荒れる烈風",
+    "title": "블리치 4기 5화",
     "jpTitle": "貴船出陣！吹き荒れる烈風",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-05-28",
@@ -2454,13 +2626,14 @@ window.BLEACH_ITEMS = [
     "episode": 172,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 176
+    "no": 176,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-173",
-    "title": "173화 巨悪の登場！霞大路家の闇",
+    "title": "블리치 4기 6화",
     "jpTitle": "巨悪の登場！霞大路家の闇",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-06-04",
@@ -2468,13 +2641,14 @@ window.BLEACH_ITEMS = [
     "episode": 173,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 177
+    "no": 177,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-174",
-    "title": "174화 鏡の境界を破れ！捕らわれの一護",
+    "title": "블리치 4기 7화",
     "jpTitle": "鏡の境界を破れ！捕らわれの一護",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-06-11",
@@ -2482,13 +2656,14 @@ window.BLEACH_ITEMS = [
     "episode": 174,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 178
+    "no": 178,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-175",
-    "title": "175화 復讐の刺客、狙われた一護",
+    "title": "블리치 4기 8화",
     "jpTitle": "復讐の刺客、狙われた一護",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-06-18",
@@ -2496,13 +2671,14 @@ window.BLEACH_ITEMS = [
     "episode": 175,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 179
+    "no": 179,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-176",
-    "title": "176화 怪奇！刀を喰う暗殺者",
+    "title": "블리치 4기 9화",
     "jpTitle": "怪奇！刀を喰う暗殺者",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-06-25",
@@ -2510,13 +2686,14 @@ window.BLEACH_ITEMS = [
     "episode": 176,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 180
+    "no": 180,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-177",
-    "title": "177화 逆転のルキア、暴走する刀",
+    "title": "블리치 4기 10화",
     "jpTitle": "逆転のルキア、暴走する刀",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-06-25",
@@ -2524,13 +2701,14 @@ window.BLEACH_ITEMS = [
     "episode": 177,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 181
+    "no": 181,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-178",
-    "title": "178화 見せられた悪夢、鏡の中の一護",
+    "title": "블리치 4기 11화",
     "jpTitle": "見せられた悪夢、鏡の中の一護",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-07-02",
@@ -2538,13 +2716,14 @@ window.BLEACH_ITEMS = [
     "episode": 178,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 182
+    "no": 182,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-179",
-    "title": "179화 対立!?天貝VS護廷十三隊",
+    "title": "블리치 4기 12화",
     "jpTitle": "対立!?天貝VS護廷十三隊",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-07-09",
@@ -2552,13 +2731,14 @@ window.BLEACH_ITEMS = [
     "episode": 179,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 183
+    "no": 183,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-180",
-    "title": "180화 姫の決意、哀しき花嫁",
+    "title": "블리치 4기 13화",
     "jpTitle": "姫の決意、哀しき花嫁",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-07-16",
@@ -2566,13 +2746,14 @@ window.BLEACH_ITEMS = [
     "episode": 180,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 184
+    "no": 184,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-181",
-    "title": "181화 二番隊出撃！包囲された一護",
+    "title": "블리치 4기 14화",
     "jpTitle": "二番隊出撃！包囲された一護",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-07-23",
@@ -2580,13 +2761,14 @@ window.BLEACH_ITEMS = [
     "episode": 181,
     "seasonEpisode": 14,
     "category": "tva",
-    "no": 185
+    "no": 185,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-182",
-    "title": "182화 天貝の実力、斬魄刀解放!",
+    "title": "블리치 4기 15화",
     "jpTitle": "天貝の実力、斬魄刀解放!",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-07-30",
@@ -2594,13 +2776,14 @@ window.BLEACH_ITEMS = [
     "episode": 182,
     "seasonEpisode": 15,
     "category": "tva",
-    "no": 186
+    "no": 186,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-183",
-    "title": "183화 動き出した闇！貴船の正体",
+    "title": "블리치 4기 16화",
     "jpTitle": "動き出した闇！貴船の正体",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-08-06",
@@ -2608,13 +2791,14 @@ window.BLEACH_ITEMS = [
     "episode": 183,
     "seasonEpisode": 16,
     "category": "tva",
-    "no": 187
+    "no": 187,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-184",
-    "title": "184화 吉良と貴船、三番隊の攻防",
+    "title": "블리치 4기 17화",
     "jpTitle": "吉良と貴船、三番隊の攻防",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-08-20",
@@ -2622,13 +2806,14 @@ window.BLEACH_ITEMS = [
     "episode": 184,
     "seasonEpisode": 17,
     "category": "tva",
-    "no": 188
+    "no": 188,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-185",
-    "title": "185화 氷と炎！天貝VS日番谷の激闘",
+    "title": "블리치 4기 18화",
     "jpTitle": "氷と炎！天貝VS日番谷の激闘",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-08-27",
@@ -2636,13 +2821,14 @@ window.BLEACH_ITEMS = [
     "episode": 185,
     "seasonEpisode": 18,
     "category": "tva",
-    "no": 189
+    "no": 189,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-186",
-    "title": "186화 出撃指令！霞大路家を制圧せよ",
+    "title": "블리치 4기 19화",
     "jpTitle": "出撃指令！霞大路家を制圧せよ",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-09-03",
@@ -2650,13 +2836,14 @@ window.BLEACH_ITEMS = [
     "episode": 186,
     "seasonEpisode": 19,
     "category": "tva",
-    "no": 190
+    "no": 190,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-187",
-    "title": "187화 一護激怒！暗殺者の秘密",
+    "title": "블리치 4기 20화",
     "jpTitle": "一護激怒！暗殺者の秘密",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-09-10",
@@ -2664,13 +2851,14 @@ window.BLEACH_ITEMS = [
     "episode": 187,
     "seasonEpisode": 20,
     "category": "tva",
-    "no": 191
+    "no": 191,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-188",
-    "title": "188화 決闘！天貝VS一護",
+    "title": "블리치 4기 21화",
     "jpTitle": "決闘！天貝VS一護",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-09-17",
@@ -2678,7 +2866,8 @@ window.BLEACH_ITEMS = [
     "episode": 188,
     "seasonEpisode": 21,
     "category": "tva",
-    "no": 192
+    "no": 192,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-ova-3",
@@ -2694,9 +2883,9 @@ window.BLEACH_ITEMS = [
   },
   {
     "id": "bleach-tv-189",
-    "title": "189화 堕ちた死神の誇り",
+    "title": "블리치 4기 22화",
     "jpTitle": "堕ちた死神の誇り",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-10-07",
@@ -2704,13 +2893,14 @@ window.BLEACH_ITEMS = [
     "episode": 189,
     "seasonEpisode": 22,
     "category": "tva",
-    "no": 194
+    "no": 194,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-190",
-    "title": "190화 ウェコムンド編、再会！",
+    "title": "블리치 4기 23화",
     "jpTitle": "ウェコムンド編、再会！",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-10-14",
@@ -2718,13 +2908,14 @@ window.BLEACH_ITEMS = [
     "episode": 190,
     "seasonEpisode": 23,
     "category": "tva",
-    "no": 195
+    "no": 195,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-191",
-    "title": "191화 恐宴、ザエルアポロ劇場",
+    "title": "블리치 4기 24화",
     "jpTitle": "恐宴、ザエルアポロ劇場",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-10-21",
@@ -2732,13 +2923,14 @@ window.BLEACH_ITEMS = [
     "episode": 191,
     "seasonEpisode": 24,
     "category": "tva",
-    "no": 196
+    "no": 196,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-192",
-    "title": "192화 ネルの秘密、 巨乳美女参戦!?",
+    "title": "블리치 4기 25화",
     "jpTitle": "ネルの秘密、 巨乳美女参戦!?",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-10-28",
@@ -2746,13 +2938,14 @@ window.BLEACH_ITEMS = [
     "episode": 192,
     "seasonEpisode": 25,
     "category": "tva",
-    "no": 197
+    "no": 197,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-193",
-    "title": "193화 抵抗不能、恐怖の人形劇",
+    "title": "블리치 4기 26화",
     "jpTitle": "抵抗不能、恐怖の人形劇",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-11-04",
@@ -2760,13 +2953,14 @@ window.BLEACH_ITEMS = [
     "episode": 193,
     "seasonEpisode": 26,
     "category": "tva",
-    "no": 198
+    "no": 198,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-194",
-    "title": "194화 ネリエルの過去",
+    "title": "블리치 4기 27화",
     "jpTitle": "ネリエルの過去",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-11-11",
@@ -2774,13 +2968,14 @@ window.BLEACH_ITEMS = [
     "episode": 194,
     "seasonEpisode": 27,
     "category": "tva",
-    "no": 199
+    "no": 199,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-195",
-    "title": "195화 究極合体！ペッシェの本気",
+    "title": "블리치 4기 28화",
     "jpTitle": "究極合体！ペッシェの本気",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-11-18",
@@ -2788,13 +2983,14 @@ window.BLEACH_ITEMS = [
     "episode": 195,
     "seasonEpisode": 28,
     "category": "tva",
-    "no": 200
+    "no": 200,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-196",
-    "title": "196화 参戦！最強死神軍団登場",
+    "title": "블리치 4기 29화",
     "jpTitle": "参戦！最強死神軍団登場",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-11-25",
@@ -2802,13 +2998,14 @@ window.BLEACH_ITEMS = [
     "episode": 196,
     "seasonEpisode": 29,
     "category": "tva",
-    "no": 201
+    "no": 201,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-197",
-    "title": "197화 白哉卍解、静かなる怒り",
+    "title": "블리치 4기 30화",
     "jpTitle": "白哉卍解、静かなる怒り",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-12-02",
@@ -2816,13 +3013,14 @@ window.BLEACH_ITEMS = [
     "episode": 197,
     "seasonEpisode": 30,
     "category": "tva",
-    "no": 202
+    "no": 202,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-198",
-    "title": "198화 2人の科学者、マユリの罠",
+    "title": "블리치 4기 31화",
     "jpTitle": "2人の科学者、マユリの罠",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-12-09",
@@ -2830,25 +3028,27 @@ window.BLEACH_ITEMS = [
     "episode": 198,
     "seasonEpisode": 31,
     "category": "tva",
-    "no": 203
+    "no": 203,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-movie-3",
-    "title": "극장판 3기 페이드 투 블랙",
+    "title": "극장판 블리치 3기 : 페이드 투 블랙",
     "jpTitle": "Fade to Black 君の名を呼ぶ",
-    "source": "극장판 블리치 3기 : 페이드 투 블랙 (자막)",
+    "source": "극장판 블리치 3기 : 페이드 투 블랙",
     "url": "https://www.tving.com/contents/M000341433",
     "linkType": "작품 페이지",
     "original": "2008-12-13",
     "releaseDate": "2008-12-13",
     "category": "movie",
-    "no": 204
+    "no": 204,
+    "titleBasis": "tving-content-title"
   },
   {
     "id": "bleach-tv-199",
-    "title": "199화 聖誕、蘇るザエルアポロ",
+    "title": "블리치 4기 32화",
     "jpTitle": "聖誕、蘇るザエルアポロ",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-12-16",
@@ -2856,13 +3056,14 @@ window.BLEACH_ITEMS = [
     "episode": 199,
     "seasonEpisode": 32,
     "category": "tva",
-    "no": 205
+    "no": 205,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-200",
-    "title": "200화 最硬の体!? ノイトラを斬れ",
+    "title": "블리치 4기 33화",
     "jpTitle": "最硬の体!? ノイトラを斬れ",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2008-12-23",
@@ -2870,13 +3071,14 @@ window.BLEACH_ITEMS = [
     "episode": 200,
     "seasonEpisode": 33,
     "category": "tva",
-    "no": 206
+    "no": 206,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-201",
-    "title": "201화 ノイトラ開放！増殖した腕",
+    "title": "블리치 4기 34화",
     "jpTitle": "ノイトラ開放！増殖した腕",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-01-06",
@@ -2884,13 +3086,14 @@ window.BLEACH_ITEMS = [
     "episode": 201,
     "seasonEpisode": 34,
     "category": "tva",
-    "no": 207
+    "no": 207,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-202",
-    "title": "202화 激闘決着！最強は誰だ",
+    "title": "블리치 4기 35화",
     "jpTitle": "激闘決着！最強は誰だ",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-01-13",
@@ -2898,13 +3101,14 @@ window.BLEACH_ITEMS = [
     "episode": 202,
     "seasonEpisode": 35,
     "category": "tva",
-    "no": 208
+    "no": 208,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-203",
-    "title": "203화 空座町に集結！藍染対死神",
+    "title": "블리치 4기 36화",
     "jpTitle": "空座町に集結！藍染対死神",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-01-20",
@@ -2912,13 +3116,14 @@ window.BLEACH_ITEMS = [
     "episode": 203,
     "seasonEpisode": 36,
     "category": "tva",
-    "no": 209
+    "no": 209,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-204",
-    "title": "204화 一護の切腹説得大作戦☆",
+    "title": "블리치 4기 37화",
     "jpTitle": "一護の切腹説得大作戦☆",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-01-27",
@@ -2926,13 +3131,14 @@ window.BLEACH_ITEMS = [
     "episode": 204,
     "seasonEpisode": 37,
     "category": "tva",
-    "no": 210
+    "no": 210,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-205",
-    "title": "205화 ドキ！虚だらけの蹴鞠大会",
+    "title": "블리치 4기 38화",
     "jpTitle": "ドキ！虚だらけの蹴鞠大会",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-02-03",
@@ -2940,13 +3146,14 @@ window.BLEACH_ITEMS = [
     "episode": 205,
     "seasonEpisode": 38,
     "category": "tva",
-    "no": 211
+    "no": 211,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-206",
-    "title": "206화 過去編開始！110年前の真実",
+    "title": "블리치 4기 39화",
     "jpTitle": "過去編開始！110年前の真実",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-02-10",
@@ -2954,13 +3161,14 @@ window.BLEACH_ITEMS = [
     "episode": 206,
     "seasonEpisode": 39,
     "category": "tva",
-    "no": 212
+    "no": 212,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-207",
-    "title": "207화 十二番隊新隊長、浦原喜助",
+    "title": "블리치 4기 40화",
     "jpTitle": "十二番隊新隊長、浦原喜助",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-02-17",
@@ -2968,13 +3176,14 @@ window.BLEACH_ITEMS = [
     "episode": 207,
     "seasonEpisode": 40,
     "category": "tva",
-    "no": 213
+    "no": 213,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-208",
-    "title": "208화 藍染と天才少年",
+    "title": "블리치 4기 41화",
     "jpTitle": "藍染と天才少年",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-02-24",
@@ -2982,13 +3191,14 @@ window.BLEACH_ITEMS = [
     "episode": 208,
     "seasonEpisode": 41,
     "category": "tva",
-    "no": 214
+    "no": 214,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-209",
-    "title": "209화 六車九番隊、出動せよ",
+    "title": "블리치 4기 42화",
     "jpTitle": "六車九番隊、出動せよ",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-03-03",
@@ -2996,13 +3206,14 @@ window.BLEACH_ITEMS = [
     "episode": 209,
     "seasonEpisode": 42,
     "category": "tva",
-    "no": 215
+    "no": 215,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-210",
-    "title": "210화 ひよ里死す? 悲劇の始まり",
+    "title": "블리치 4기 43화",
     "jpTitle": "ひよ里死す? 悲劇の始まり",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-03-10",
@@ -3010,13 +3221,14 @@ window.BLEACH_ITEMS = [
     "episode": 210,
     "seasonEpisode": 43,
     "category": "tva",
-    "no": 216
+    "no": 216,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-211",
-    "title": "211화 裏切り！暗躍の藍染",
+    "title": "블리치 4기 44화",
     "jpTitle": "裏切り！暗躍の藍染",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-03-17",
@@ -3024,13 +3236,14 @@ window.BLEACH_ITEMS = [
     "episode": 211,
     "seasonEpisode": 44,
     "category": "tva",
-    "no": 217
+    "no": 217,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-212",
-    "title": "212화 平子を救え！藍染VS浦原",
+    "title": "블리치 4기 45화",
     "jpTitle": "平子を救え！藍染VS浦原",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-03-24",
@@ -3038,13 +3251,14 @@ window.BLEACH_ITEMS = [
     "episode": 212,
     "seasonEpisode": 45,
     "category": "tva",
-    "no": 218
+    "no": 218,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-213",
-    "title": "213화 魂葬刑事カラクライザー誕生",
+    "title": "블리치 4기 46화",
     "jpTitle": "魂葬刑事カラクライザー誕生",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-03-31",
@@ -3052,13 +3266,14 @@ window.BLEACH_ITEMS = [
     "episode": 213,
     "seasonEpisode": 46,
     "category": "tva",
-    "no": 219
+    "no": 219,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-214",
-    "title": "214화 カラクライザー最後の日",
+    "title": "블리치 4기 47화",
     "jpTitle": "カラクライザー最後の日",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-04-07",
@@ -3066,13 +3281,14 @@ window.BLEACH_ITEMS = [
     "episode": 214,
     "seasonEpisode": 47,
     "category": "tva",
-    "no": 220
+    "no": 220,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-215",
-    "title": "215화 空座町を護れ！死神総登場",
+    "title": "블리치 4기 48화",
     "jpTitle": "空座町を護れ！死神総登場",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-04-14",
@@ -3080,13 +3296,14 @@ window.BLEACH_ITEMS = [
     "episode": 215,
     "seasonEpisode": 48,
     "category": "tva",
-    "no": 221
+    "no": 221,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-216",
-    "title": "216화 精鋭！四人の死神",
+    "title": "블리치 4기 49화",
     "jpTitle": "精鋭！四人の死神",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-04-21",
@@ -3094,13 +3311,14 @@ window.BLEACH_ITEMS = [
     "episode": 216,
     "seasonEpisode": 49,
     "category": "tva",
-    "no": 222
+    "no": 222,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-217",
-    "title": "217화 美しき小悪魔シャルロッテ",
+    "title": "블리치 4기 50화",
     "jpTitle": "美しき小悪魔シャルロッテ",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-04-28",
@@ -3108,13 +3326,14 @@ window.BLEACH_ITEMS = [
     "episode": 217,
     "seasonEpisode": 50,
     "category": "tva",
-    "no": 223
+    "no": 223,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-218",
-    "title": "218화 吉良、絶望の中での戦い",
+    "title": "블리치 4기 51화",
     "jpTitle": "吉良、絶望の中での戦い",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-05-05",
@@ -3122,13 +3341,14 @@ window.BLEACH_ITEMS = [
     "episode": 218,
     "seasonEpisode": 51,
     "category": "tva",
-    "no": 224
+    "no": 224,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-219",
-    "title": "219화 檜佐木始解！その名は…",
+    "title": "블리치 4기 52화",
     "jpTitle": "檜佐木始解！その名は…",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-05-12",
@@ -3136,13 +3356,14 @@ window.BLEACH_ITEMS = [
     "episode": 219,
     "seasonEpisode": 52,
     "category": "tva",
-    "no": 225
+    "no": 225,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-220",
-    "title": "220화 一角倒れる！死神の危機",
+    "title": "블리치 4기 53화",
     "jpTitle": "一角倒れる！死神の危機",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-05-19",
@@ -3150,13 +3371,14 @@ window.BLEACH_ITEMS = [
     "episode": 220,
     "seasonEpisode": 53,
     "category": "tva",
-    "no": 226
+    "no": 226,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-221",
-    "title": "221화 全面対決！死神VS十刃",
+    "title": "블리치 4기 54화",
     "jpTitle": "全面対決！死神VS十刃",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-05-26",
@@ -3164,13 +3386,14 @@ window.BLEACH_ITEMS = [
     "episode": 221,
     "seasonEpisode": 54,
     "category": "tva",
-    "no": 227
+    "no": 227,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-222",
-    "title": "222화 最凶タッグ!?砕蜂&大前田",
+    "title": "블리치 4기 55화",
     "jpTitle": "最凶タッグ!?砕蜂&大前田",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-06-02",
@@ -3178,13 +3401,14 @@ window.BLEACH_ITEMS = [
     "episode": 222,
     "seasonEpisode": 55,
     "category": "tva",
-    "no": 228
+    "no": 228,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-223",
-    "title": "223화 驚異の肉体！ジオ解放",
+    "title": "블리치 4기 56화",
     "jpTitle": "驚異の肉体！ジオ解放",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-06-09",
@@ -3192,13 +3416,14 @@ window.BLEACH_ITEMS = [
     "episode": 223,
     "seasonEpisode": 56,
     "category": "tva",
-    "no": 229
+    "no": 229,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-224",
-    "title": "224화 3vs1の戦闘！ピンチの乱菊",
+    "title": "블리치 4기 57화",
     "jpTitle": "3vs1の戦闘！ピンチの乱菊",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-06-16",
@@ -3206,13 +3431,14 @@ window.BLEACH_ITEMS = [
     "episode": 224,
     "seasonEpisode": 57,
     "category": "tva",
-    "no": 230
+    "no": 230,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-225",
-    "title": "225화 副隊長全滅！恐怖の妖獣",
+    "title": "블리치 4기 58화",
     "jpTitle": "副隊長全滅！恐怖の妖獣",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-06-23",
@@ -3220,13 +3446,14 @@ window.BLEACH_ITEMS = [
     "episode": 225,
     "seasonEpisode": 58,
     "category": "tva",
-    "no": 231
+    "no": 231,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-226",
-    "title": "226화 激闘終結？新たなる戦いへ！",
+    "title": "블리치 4기 59화",
     "jpTitle": "激闘終結？新たなる戦いへ！",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-06-30",
@@ -3234,13 +3461,14 @@ window.BLEACH_ITEMS = [
     "episode": 226,
     "seasonEpisode": 59,
     "category": "tva",
-    "no": 232
+    "no": 232,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-227",
-    "title": "227화 ワンダフル・エラー",
+    "title": "블리치 4기 60화",
     "jpTitle": "ワンダフル・エラー",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-07-07",
@@ -3248,13 +3476,14 @@ window.BLEACH_ITEMS = [
     "episode": 227,
     "seasonEpisode": 60,
     "category": "tva",
-    "no": 233
+    "no": 233,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-228",
-    "title": "228화 夏だ！海だ！水着祭!!",
+    "title": "블리치 4기 61화",
     "jpTitle": "夏だ！海だ！水着祭!!",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-07-14",
@@ -3262,13 +3491,14 @@ window.BLEACH_ITEMS = [
     "episode": 228,
     "seasonEpisode": 61,
     "category": "tva",
-    "no": 234
+    "no": 234,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-229",
-    "title": "229화 魂の叫び？ヅラ死神誕生！",
+    "title": "블리치 4기 62화",
     "jpTitle": "魂の叫び？ヅラ死神誕生！",
-    "source": "블리치 4기 (자막)",
+    "source": "블리치 4기",
     "url": "https://www.tving.com/contents/P001706815",
     "linkType": "작품 페이지",
     "original": "2009-07-21",
@@ -3276,13 +3506,14 @@ window.BLEACH_ITEMS = [
     "episode": 229,
     "seasonEpisode": 62,
     "category": "tva",
-    "no": 235
+    "no": 235,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-230",
-    "title": "230화 新たなる敵！斬魄刀実体化",
+    "title": "블리치 5기 1화",
     "jpTitle": "新たなる敵！斬魄刀実体化",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-07-28",
@@ -3290,13 +3521,14 @@ window.BLEACH_ITEMS = [
     "episode": 230,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 236
+    "no": 236,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-231",
-    "title": "231화 白哉、桜と共に消ゆ",
+    "title": "블리치 5기 2화",
     "jpTitle": "白哉、桜と共に消ゆ",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-08-04",
@@ -3304,13 +3536,14 @@ window.BLEACH_ITEMS = [
     "episode": 231,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 237
+    "no": 237,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-232",
-    "title": "232화 袖白雪vsルキア！心の惑い",
+    "title": "블리치 5기 3화",
     "jpTitle": "袖白雪vsルキア！心の惑い",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-08-11",
@@ -3318,13 +3551,14 @@ window.BLEACH_ITEMS = [
     "episode": 232,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 238
+    "no": 238,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-233",
-    "title": "233화 敵となった斬月",
+    "title": "블리치 5기 4화",
     "jpTitle": "敵となった斬月",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-08-18",
@@ -3332,13 +3566,14 @@ window.BLEACH_ITEMS = [
     "episode": 233,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 239
+    "no": 239,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-234",
-    "title": "234화 恋次驚愕!? 2人の蛇尾丸",
+    "title": "블리치 5기 5화",
     "jpTitle": "恋次驚愕!? 2人の蛇尾丸",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-08-25",
@@ -3346,13 +3581,14 @@ window.BLEACH_ITEMS = [
     "episode": 234,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 240
+    "no": 240,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-235",
-    "title": "235화 激突！檜佐木vs風死",
+    "title": "블리치 5기 6화",
     "jpTitle": "激突！檜佐木vs風死",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-09-01",
@@ -3360,13 +3596,14 @@ window.BLEACH_ITEMS = [
     "episode": 235,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 241
+    "no": 241,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-236",
-    "title": "236화 放て！新たなる月牙天衝",
+    "title": "블리치 5기 7화",
     "jpTitle": "放て！新たなる月牙天衝",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-09-08",
@@ -3374,13 +3611,14 @@ window.BLEACH_ITEMS = [
     "episode": 236,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 242
+    "no": 242,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-237",
-    "title": "237화 砕蜂、斬魄刀を包囲せよ！",
+    "title": "블리치 5기 8화",
     "jpTitle": "砕蜂、斬魄刀を包囲せよ！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-09-15",
@@ -3388,13 +3626,14 @@ window.BLEACH_ITEMS = [
     "episode": 237,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 243
+    "no": 243,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-238",
-    "title": "238화 友情？嫌悪？灰猫&飛梅",
+    "title": "블리치 5기 9화",
     "jpTitle": "友情？嫌悪？灰猫&飛梅",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-09-22",
@@ -3402,13 +3641,14 @@ window.BLEACH_ITEMS = [
     "episode": 238,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 244
+    "no": 244,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-239",
-    "title": "239화 目覚めよ氷輪丸！日番谷激闘",
+    "title": "블리치 5기 10화",
     "jpTitle": "目覚めよ氷輪丸！日番谷激闘",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-09-29",
@@ -3416,13 +3656,14 @@ window.BLEACH_ITEMS = [
     "episode": 239,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 245
+    "no": 245,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-240",
-    "title": "240화 裏切りの白哉",
+    "title": "블리치 5기 11화",
     "jpTitle": "裏切りの白哉",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-10-06",
@@ -3430,13 +3671,14 @@ window.BLEACH_ITEMS = [
     "episode": 240,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 246
+    "no": 246,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-241",
-    "title": "241화 誇りのために！白哉vs恋次",
+    "title": "블리치 5기 12화",
     "jpTitle": "誇りのために！白哉vs恋次",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-10-13",
@@ -3444,13 +3686,14 @@ window.BLEACH_ITEMS = [
     "episode": 241,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 247
+    "no": 247,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-242",
-    "title": "242화 死神&斬魄刀、総出撃",
+    "title": "블리치 5기 13화",
     "jpTitle": "死神&斬魄刀、総出撃",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-10-20",
@@ -3458,13 +3701,14 @@ window.BLEACH_ITEMS = [
     "episode": 242,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 248
+    "no": 248,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-243",
-    "title": "243화 一騎打ち！一護vs千本桜",
+    "title": "블리치 5기 14화",
     "jpTitle": "一騎打ち！一護vs千本桜",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-10-27",
@@ -3472,13 +3716,14 @@ window.BLEACH_ITEMS = [
     "episode": 243,
     "seasonEpisode": 14,
     "category": "tva",
-    "no": 249
+    "no": 249,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-244",
-    "title": "244화 満を持して…剣八登場！",
+    "title": "블리치 5기 15화",
     "jpTitle": "満を持して…剣八登場！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-11-03",
@@ -3486,13 +3731,14 @@ window.BLEACH_ITEMS = [
     "episode": 244,
     "seasonEpisode": 15,
     "category": "tva",
-    "no": 250
+    "no": 250,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-245",
-    "title": "245화 白哉を追え！混乱の護廷隊",
+    "title": "블리치 5기 16화",
     "jpTitle": "白哉を追え！混乱の護廷隊",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-11-10",
@@ -3500,13 +3746,14 @@ window.BLEACH_ITEMS = [
     "episode": 245,
     "seasonEpisode": 16,
     "category": "tva",
-    "no": 251
+    "no": 251,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-246",
-    "title": "246화 特務！山本総隊長を救出せよ！",
+    "title": "블리치 5기 17화",
     "jpTitle": "特務！山本総隊長を救出せよ！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-11-17",
@@ -3514,13 +3761,14 @@ window.BLEACH_ITEMS = [
     "episode": 246,
     "seasonEpisode": 17,
     "category": "tva",
-    "no": 252
+    "no": 252,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-247",
-    "title": "247화 騙された死神！世界崩壊の危機",
+    "title": "블리치 5기 18화",
     "jpTitle": "騙された死神！世界崩壊の危機",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-11-24",
@@ -3528,13 +3776,14 @@ window.BLEACH_ITEMS = [
     "episode": 247,
     "seasonEpisode": 18,
     "category": "tva",
-    "no": 253
+    "no": 253,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-248",
-    "title": "248화 氷の龍と炎の龍！最強対決！",
+    "title": "블리치 5기 19화",
     "jpTitle": "氷の龍と炎の龍！最強対決！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-12-01",
@@ -3542,13 +3791,14 @@ window.BLEACH_ITEMS = [
     "episode": 248,
     "seasonEpisode": 19,
     "category": "tva",
-    "no": 254
+    "no": 254,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-249",
-    "title": "249화 千本桜卍解！現世の攻防",
+    "title": "블리치 5기 20화",
     "jpTitle": "千本桜卍解！現世の攻防",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-12-08",
@@ -3556,13 +3806,14 @@ window.BLEACH_ITEMS = [
     "episode": 249,
     "seasonEpisode": 20,
     "category": "tva",
-    "no": 255
+    "no": 255,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-250",
-    "title": "250화 その男・朽木家ゆえに…",
+    "title": "블리치 5기 21화",
     "jpTitle": "その男・朽木家ゆえに…",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-12-15",
@@ -3570,13 +3821,14 @@ window.BLEACH_ITEMS = [
     "episode": 250,
     "seasonEpisode": 21,
     "category": "tva",
-    "no": 256
+    "no": 256,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-251",
-    "title": "251화 闇の歴史！最凶の死神、誕生",
+    "title": "블리치 5기 22화",
     "jpTitle": "闇の歴史！最凶の死神、誕生",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2009-12-22",
@@ -3584,13 +3836,14 @@ window.BLEACH_ITEMS = [
     "episode": 251,
     "seasonEpisode": 22,
     "category": "tva",
-    "no": 257
+    "no": 257,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-252",
-    "title": "252화 白哉、裏切りに隠された真実",
+    "title": "블리치 5기 23화",
     "jpTitle": "白哉、裏切りに隠された真実",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-01-05",
@@ -3598,13 +3851,14 @@ window.BLEACH_ITEMS = [
     "episode": 252,
     "seasonEpisode": 23,
     "category": "tva",
-    "no": 258
+    "no": 258,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-253",
-    "title": "253화 虚閃（セロ）!? 明かされた村正の正体",
+    "title": "블리치 5기 24화",
     "jpTitle": "虚閃（セロ）!? 明かされた村正の正体",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-01-12",
@@ -3612,13 +3866,14 @@ window.BLEACH_ITEMS = [
     "episode": 253,
     "seasonEpisode": 24,
     "category": "tva",
-    "no": 259
+    "no": 259,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-254",
-    "title": "254화 白哉と恋次、六番隊再び！",
+    "title": "블리치 5기 25화",
     "jpTitle": "白哉と恋次、六番隊再び！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-01-19",
@@ -3626,13 +3881,14 @@ window.BLEACH_ITEMS = [
     "episode": 254,
     "seasonEpisode": 25,
     "category": "tva",
-    "no": 260
+    "no": 260,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-255",
-    "title": "255화 終章・斬魄刀異聞編",
+    "title": "블리치 5기 26화",
     "jpTitle": "終章・斬魄刀異聞編",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-01-26",
@@ -3640,13 +3896,14 @@ window.BLEACH_ITEMS = [
     "episode": 255,
     "seasonEpisode": 26,
     "category": "tva",
-    "no": 261
+    "no": 261,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-256",
-    "title": "256화 怒りの白哉！朽木家崩壊！",
+    "title": "블리치 5기 27화",
     "jpTitle": "怒りの白哉！朽木家崩壊！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-02-02",
@@ -3654,13 +3911,14 @@ window.BLEACH_ITEMS = [
     "episode": 256,
     "seasonEpisode": 27,
     "category": "tva",
-    "no": 262
+    "no": 262,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-257",
-    "title": "257화 新たな敵！刀獣の正体",
+    "title": "블리치 5기 28화",
     "jpTitle": "新たな敵！刀獣の正体",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-02-09",
@@ -3668,13 +3926,14 @@ window.BLEACH_ITEMS = [
     "episode": 257,
     "seasonEpisode": 28,
     "category": "tva",
-    "no": 263
+    "no": 263,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-258",
-    "title": "258화 迷子の蛇、受難の猿",
+    "title": "블리치 5기 29화",
     "jpTitle": "迷子の蛇、受難の猿",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-02-16",
@@ -3682,13 +3941,14 @@ window.BLEACH_ITEMS = [
     "episode": 258,
     "seasonEpisode": 29,
     "category": "tva",
-    "no": 264
+    "no": 264,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-259",
-    "title": "259화 恐怖！地下に潜む怪物",
+    "title": "블리치 5기 30화",
     "jpTitle": "恐怖！地下に潜む怪物",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-02-23",
@@ -3696,13 +3956,14 @@ window.BLEACH_ITEMS = [
     "episode": 259,
     "seasonEpisode": 30,
     "category": "tva",
-    "no": 265
+    "no": 265,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-260",
-    "title": "260화 決着!? 檜佐木vs風死",
+    "title": "블리치 5기 31화",
     "jpTitle": "決着!? 檜佐木vs風死",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-03-02",
@@ -3710,13 +3971,14 @@ window.BLEACH_ITEMS = [
     "episode": 260,
     "seasonEpisode": 31,
     "category": "tva",
-    "no": 266
+    "no": 266,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-261",
-    "title": "261화 未知なる能力者！狙われた織姫",
+    "title": "블리치 5기 32화",
     "jpTitle": "未知なる能力者！狙われた織姫",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-03-09",
@@ -3724,13 +3986,14 @@ window.BLEACH_ITEMS = [
     "episode": 261,
     "seasonEpisode": 32,
     "category": "tva",
-    "no": 267
+    "no": 267,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-262",
-    "title": "262화 悲劇の刀獣！灰猫、号泣！",
+    "title": "블리치 5기 33화",
     "jpTitle": "悲劇の刀獣！灰猫、号泣！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-03-16",
@@ -3738,13 +4001,14 @@ window.BLEACH_ITEMS = [
     "episode": 262,
     "seasonEpisode": 33,
     "category": "tva",
-    "no": 268
+    "no": 268,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-263",
-    "title": "263화 幽閉!? 千本桜&蛇尾丸",
+    "title": "블리치 5기 34화",
     "jpTitle": "幽閉!? 千本桜&蛇尾丸",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-03-23",
@@ -3752,13 +4016,14 @@ window.BLEACH_ITEMS = [
     "episode": 263,
     "seasonEpisode": 34,
     "category": "tva",
-    "no": 269
+    "no": 269,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-264",
-    "title": "264화 女の戦い？花天狂骨vs七緒！",
+    "title": "블리치 5기 35화",
     "jpTitle": "女の戦い？花天狂骨vs七緒！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-03-30",
@@ -3766,13 +4031,14 @@ window.BLEACH_ITEMS = [
     "episode": 264,
     "seasonEpisode": 35,
     "category": "tva",
-    "no": 270
+    "no": 270,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-265",
-    "title": "265화 進化!? 最後の刀獣の脅威！",
+    "title": "블리치 5기 36화",
     "jpTitle": "進化!? 最後の刀獣の脅威！",
-    "source": "블리치 5기 (자막)",
+    "source": "블리치 5기",
     "url": "https://www.tving.com/contents/P001753751",
     "linkType": "작품 페이지",
     "original": "2010-04-06",
@@ -3780,13 +4046,14 @@ window.BLEACH_ITEMS = [
     "episode": 265,
     "seasonEpisode": 36,
     "category": "tva",
-    "no": 271
+    "no": 271,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-266",
-    "title": "266화 一護vsウルキオラ、再開！",
+    "title": "블리치 6기 1화",
     "jpTitle": "一護vsウルキオラ、再開！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-04-13",
@@ -3794,13 +4061,14 @@ window.BLEACH_ITEMS = [
     "episode": 266,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 272
+    "no": 272,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-267",
-    "title": "267화 繋がる心！決死の左拳！",
+    "title": "블리치 6기 2화",
     "jpTitle": "繋がる心！決死の左拳！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-04-20",
@@ -3808,13 +4076,14 @@ window.BLEACH_ITEMS = [
     "episode": 267,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 273
+    "no": 273,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-268",
-    "title": "268화 嫉妬と憎悪…窮地の織姫！",
+    "title": "블리치 6기 3화",
     "jpTitle": "嫉妬と憎悪…窮地の織姫！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-04-27",
@@ -3822,13 +4091,14 @@ window.BLEACH_ITEMS = [
     "episode": 268,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 274
+    "no": 274,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-269",
-    "title": "269화 一護と雨竜、背中合わせの絆！",
+    "title": "블리치 6기 4화",
     "jpTitle": "一護と雨竜、背中合わせの絆！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-05-04",
@@ -3836,13 +4106,14 @@ window.BLEACH_ITEMS = [
     "episode": 269,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 275
+    "no": 275,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-270",
-    "title": "270화 絶望の始まり…一護、届かぬ刃",
+    "title": "블리치 6기 5화",
     "jpTitle": "絶望の始まり…一護、届かぬ刃",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-05-11",
@@ -3850,13 +4121,14 @@ window.BLEACH_ITEMS = [
     "episode": 270,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 276
+    "no": 276,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-271",
-    "title": "271화 一護死す！織姫、悲痛の叫び！",
+    "title": "블리치 6기 6화",
     "jpTitle": "一護死す！織姫、悲痛の叫び！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-05-18",
@@ -3864,13 +4136,14 @@ window.BLEACH_ITEMS = [
     "episode": 271,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 277
+    "no": 277,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-272",
-    "title": "272화 一護vsウルキオラ、決着！",
+    "title": "블리치 6기 7화",
     "jpTitle": "一護vsウルキオラ、決着！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-05-25",
@@ -3878,13 +4151,14 @@ window.BLEACH_ITEMS = [
     "episode": 272,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 278
+    "no": 278,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-273",
-    "title": "273화 鮫の猛威！ハリベル解放",
+    "title": "블리치 6기 8화",
     "jpTitle": "鮫の猛威！ハリベル解放",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-06-01",
@@ -3892,13 +4166,14 @@ window.BLEACH_ITEMS = [
     "episode": 273,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 279
+    "no": 279,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-274",
-    "title": "274화 日番谷、捨て身の氷天百華葬！",
+    "title": "블리치 6기 9화",
     "jpTitle": "日番谷、捨て身の氷天百華葬！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-06-08",
@@ -3906,13 +4181,14 @@ window.BLEACH_ITEMS = [
     "episode": 274,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 280
+    "no": 280,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-275",
-    "title": "275화 迫る死の息吹…死を司る王！",
+    "title": "블리치 6기 10화",
     "jpTitle": "迫る死の息吹…死を司る王！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-06-15",
@@ -3920,13 +4196,14 @@ window.BLEACH_ITEMS = [
     "episode": 275,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 281
+    "no": 281,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-276",
-    "title": "276화 一撃決殺！砕蜂、卍解！",
+    "title": "블리치 6기 11화",
     "jpTitle": "一撃決殺！砕蜂、卍解！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-06-22",
@@ -3934,13 +4211,14 @@ window.BLEACH_ITEMS = [
     "episode": 276,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 282
+    "no": 282,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-277",
-    "title": "277화 白熱！京楽vsスターク！",
+    "title": "블리치 6기 12화",
     "jpTitle": "白熱！京楽vsスターク！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-06-29",
@@ -3948,13 +4226,14 @@ window.BLEACH_ITEMS = [
     "episode": 277,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 283
+    "no": 283,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-278",
-    "title": "278화 悪夢再び…復活の十刃",
+    "title": "블리치 6기 13화",
     "jpTitle": "悪夢再び…復活の十刃",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-07-06",
@@ -3962,13 +4241,14 @@ window.BLEACH_ITEMS = [
     "episode": 278,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 284
+    "no": 284,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-279",
-    "title": "279화 平子と藍染…因縁の再会！",
+    "title": "블리치 6기 14화",
     "jpTitle": "平子と藍染…因縁の再会！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-07-13",
@@ -3976,13 +4256,14 @@ window.BLEACH_ITEMS = [
     "episode": 279,
     "seasonEpisode": 14,
     "category": "tva",
-    "no": 285
+    "no": 285,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-280",
-    "title": "280화 檜佐木と東仙…訣別の時！",
+    "title": "블리치 6기 15화",
     "jpTitle": "檜佐木と東仙…訣別の時！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-07-20",
@@ -3990,13 +4271,14 @@ window.BLEACH_ITEMS = [
     "episode": 280,
     "seasonEpisode": 15,
     "category": "tva",
-    "no": 286
+    "no": 286,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-281",
-    "title": "281화 偽りの王冠…バラガンの怨恨！",
+    "title": "블리치 6기 16화",
     "jpTitle": "偽りの王冠…バラガンの怨恨！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-07-27",
@@ -4004,13 +4286,14 @@ window.BLEACH_ITEMS = [
     "episode": 281,
     "seasonEpisode": 16,
     "category": "tva",
-    "no": 287
+    "no": 287,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-282",
-    "title": "282화 魂の力！群狼、襲来！",
+    "title": "블리치 6기 17화",
     "jpTitle": "魂の力！群狼、襲来！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-08-03",
@@ -4018,13 +4301,14 @@ window.BLEACH_ITEMS = [
     "episode": 282,
     "seasonEpisode": 17,
     "category": "tva",
-    "no": 288
+    "no": 288,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-283",
-    "title": "283화 スターク、たった独りの戦い",
+    "title": "블리치 6기 18화",
     "jpTitle": "スターク、たった独りの戦い",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-08-10",
@@ -4032,13 +4316,14 @@ window.BLEACH_ITEMS = [
     "episode": 283,
     "seasonEpisode": 18,
     "category": "tva",
-    "no": 289
+    "no": 289,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-284",
-    "title": "284화 犠牲の連鎖…ハリベルの過去",
+    "title": "블리치 6기 19화",
     "jpTitle": "犠牲の連鎖…ハリベルの過去",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-08-17",
@@ -4046,13 +4331,14 @@ window.BLEACH_ITEMS = [
     "episode": 284,
     "seasonEpisode": 19,
     "category": "tva",
-    "no": 290
+    "no": 290,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-285",
-    "title": "285화 百年の怨恨…ひよ里の復讐！",
+    "title": "블리치 6기 20화",
     "jpTitle": "百年の怨恨…ひよ里の復讐！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-08-24",
@@ -4060,13 +4346,14 @@ window.BLEACH_ITEMS = [
     "episode": 285,
     "seasonEpisode": 20,
     "category": "tva",
-    "no": 291
+    "no": 291,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-286",
-    "title": "286화 空座町を護れ！一護、現世へ！",
+    "title": "블리치 6기 21화",
     "jpTitle": "空座町を護れ！一護、現世へ！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-08-31",
@@ -4074,13 +4361,14 @@ window.BLEACH_ITEMS = [
     "episode": 286,
     "seasonEpisode": 21,
     "category": "tva",
-    "no": 292
+    "no": 292,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-287",
-    "title": "287화 外伝！一護と魔法のランプ！",
+    "title": "블리치 6기 22화",
     "jpTitle": "外伝！一護と魔法のランプ！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-09-07",
@@ -4088,13 +4376,14 @@ window.BLEACH_ITEMS = [
     "episode": 287,
     "seasonEpisode": 22,
     "category": "tva",
-    "no": 293
+    "no": 293,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-288",
-    "title": "288화 最後の切り札！一護、決戦へ！",
+    "title": "블리치 6기 23화",
     "jpTitle": "最後の切り札！一護、決戦へ！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-09-14",
@@ -4102,13 +4391,14 @@ window.BLEACH_ITEMS = [
     "episode": 288,
     "seasonEpisode": 23,
     "category": "tva",
-    "no": 294
+    "no": 294,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-289",
-    "title": "289화 白哉vs剣八!? 乱戦開始！",
+    "title": "블리치 6기 24화",
     "jpTitle": "白哉vs剣八!? 乱戦開始！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-09-21",
@@ -4116,13 +4406,14 @@ window.BLEACH_ITEMS = [
     "episode": 289,
     "seasonEpisode": 24,
     "category": "tva",
-    "no": 295
+    "no": 295,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-290",
-    "title": "290화 正義の為に!? 死神を捨てた男",
+    "title": "블리치 6기 25화",
     "jpTitle": "正義の為に!? 死神を捨てた男",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-09-28",
@@ -4130,13 +4421,14 @@ window.BLEACH_ITEMS = [
     "episode": 290,
     "seasonEpisode": 25,
     "category": "tva",
-    "no": 296
+    "no": 296,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-291",
-    "title": "291화 藍染との死闘！平子、始解！",
+    "title": "블리치 6기 26화",
     "jpTitle": "藍染との死闘！平子、始解！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-10-05",
@@ -4144,13 +4436,14 @@ window.BLEACH_ITEMS = [
     "episode": 291,
     "seasonEpisode": 26,
     "category": "tva",
-    "no": 297
+    "no": 297,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-292",
-    "title": "292화 全面戦争！藍染vs死神！",
+    "title": "블리치 6기 27화",
     "jpTitle": "全面戦争！藍染vs死神！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-10-12",
@@ -4158,13 +4451,14 @@ window.BLEACH_ITEMS = [
     "episode": 292,
     "seasonEpisode": 27,
     "category": "tva",
-    "no": 298
+    "no": 298,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-293",
-    "title": "293화 日番谷、激昂！憎しみの刃！",
+    "title": "블리치 6기 28화",
     "jpTitle": "日番谷、激昂！憎しみの刃！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-10-19",
@@ -4172,13 +4466,14 @@ window.BLEACH_ITEMS = [
     "episode": 293,
     "seasonEpisode": 28,
     "category": "tva",
-    "no": 299
+    "no": 299,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-294",
-    "title": "294화 攻撃不能!? 封じられた元柳斎！",
+    "title": "블리치 6기 29화",
     "jpTitle": "攻撃不能!? 封じられた元柳斎！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-10-26",
@@ -4186,13 +4481,14 @@ window.BLEACH_ITEMS = [
     "episode": 294,
     "seasonEpisode": 29,
     "category": "tva",
-    "no": 300
+    "no": 300,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-295",
-    "title": "295화 全ては罠…仕組まれた絆！",
+    "title": "블리치 6기 30화",
     "jpTitle": "全ては罠…仕組まれた絆！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-11-02",
@@ -4200,13 +4496,14 @@ window.BLEACH_ITEMS = [
     "episode": 295,
     "seasonEpisode": 30,
     "category": "tva",
-    "no": 301
+    "no": 301,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-296",
-    "title": "296화 衝撃の真実…一護に秘められた力！",
+    "title": "블리치 6기 31화",
     "jpTitle": "衝撃の真実…一護に秘められた力！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-11-09",
@@ -4214,13 +4511,14 @@ window.BLEACH_ITEMS = [
     "episode": 296,
     "seasonEpisode": 31,
     "category": "tva",
-    "no": 302
+    "no": 302,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-297",
-    "title": "297화 伸びる刃!? 一護vsギン！",
+    "title": "블리치 6기 32화",
     "jpTitle": "伸びる刃!? 一護vsギン！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-11-16",
@@ -4228,13 +4526,14 @@ window.BLEACH_ITEMS = [
     "episode": 297,
     "seasonEpisode": 32,
     "category": "tva",
-    "no": 303
+    "no": 303,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-298",
-    "title": "298화 映画だ！祭だ！死神映画祭！",
+    "title": "블리치 6기 33화",
     "jpTitle": "映画だ！祭だ！死神映画祭！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-11-23",
@@ -4242,13 +4541,14 @@ window.BLEACH_ITEMS = [
     "episode": 298,
     "seasonEpisode": 33,
     "category": "tva",
-    "no": 304
+    "no": 304,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-299",
-    "title": "299화 劇場公開記念！地獄篇・序章",
+    "title": "블리치 6기 34화",
     "jpTitle": "劇場公開記念！地獄篇・序章",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-11-30",
@@ -4256,25 +4556,27 @@ window.BLEACH_ITEMS = [
     "episode": 299,
     "seasonEpisode": 34,
     "category": "tva",
-    "no": 305
+    "no": 305,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-movie-4",
-    "title": "극장판 4기 지옥편",
+    "title": "극장판 블리치 4기 : 지옥편",
     "jpTitle": "地獄篇",
-    "source": "극장판 블리치 4기 : 지옥편 (자막)",
+    "source": "극장판 블리치 4기 : 지옥편",
     "url": "https://www.tving.com/contents/M000341434",
     "linkType": "작품 페이지",
     "original": "2010-12-04",
     "releaseDate": "2010-12-04",
     "category": "movie",
-    "no": 306
+    "no": 306,
+    "titleBasis": "tving-content-title"
   },
   {
     "id": "bleach-tv-300",
-    "title": "300화 浦原登場！藍染を阻止せよ！",
+    "title": "블리치 6기 35화",
     "jpTitle": "浦原登場！藍染を阻止せよ！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-12-07",
@@ -4282,13 +4584,14 @@ window.BLEACH_ITEMS = [
     "episode": 300,
     "seasonEpisode": 35,
     "category": "tva",
-    "no": 307
+    "no": 307,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-301",
-    "title": "301화 一護、戦意喪失!? ギンの思惑！",
+    "title": "블리치 6기 36화",
     "jpTitle": "一護、戦意喪失!? ギンの思惑！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-12-14",
@@ -4296,13 +4599,14 @@ window.BLEACH_ITEMS = [
     "episode": 301,
     "seasonEpisode": 36,
     "category": "tva",
-    "no": 308
+    "no": 308,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-302",
-    "title": "302화 最後の月牙天衝!? 一護の修行！",
+    "title": "블리치 6기 37화",
     "jpTitle": "最後の月牙天衝!? 一護の修行！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2010-12-21",
@@ -4310,13 +4614,14 @@ window.BLEACH_ITEMS = [
     "episode": 302,
     "seasonEpisode": 37,
     "category": "tva",
-    "no": 309
+    "no": 309,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-303",
-    "title": "303화 現世も死神も！お正月スペシャル！",
+    "title": "블리치 6기 38화",
     "jpTitle": "現世も死神も！お正月スペシャル！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-01-04",
@@ -4324,13 +4629,14 @@ window.BLEACH_ITEMS = [
     "episode": 303,
     "seasonEpisode": 38,
     "category": "tva",
-    "no": 310
+    "no": 310,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-304",
-    "title": "304화 外伝再び！今度の敵はモンスター!?",
+    "title": "블리치 6기 39화",
     "jpTitle": "外伝再び！今度の敵はモンスター!?",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-01-11",
@@ -4338,13 +4644,14 @@ window.BLEACH_ITEMS = [
     "episode": 304,
     "seasonEpisode": 39,
     "category": "tva",
-    "no": 311
+    "no": 311,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-305",
-    "title": "305화 妄想爆走！檜佐木、温泉旅館へ！",
+    "title": "블리치 6기 40화",
     "jpTitle": "妄想爆走！檜佐木、温泉旅館へ！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-01-18",
@@ -4352,13 +4659,14 @@ window.BLEACH_ITEMS = [
     "episode": 305,
     "seasonEpisode": 40,
     "category": "tva",
-    "no": 312
+    "no": 312,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-306",
-    "title": "306화 護るために！一護vs天鎖斬月！",
+    "title": "블리치 6기 41화",
     "jpTitle": "護るために！一護vs天鎖斬月！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-01-25",
@@ -4366,13 +4674,14 @@ window.BLEACH_ITEMS = [
     "episode": 306,
     "seasonEpisode": 41,
     "category": "tva",
-    "no": 313
+    "no": 313,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-307",
-    "title": "307화 緊急事態！藍染、更なる進化！",
+    "title": "블리치 6기 42화",
     "jpTitle": "緊急事態！藍染、更なる進化！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-02-01",
@@ -4380,13 +4689,14 @@ window.BLEACH_ITEMS = [
     "episode": 307,
     "seasonEpisode": 42,
     "category": "tva",
-    "no": 314
+    "no": 314,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-308",
-    "title": "308화 さよなら…乱菊",
+    "title": "블리치 6기 43화",
     "jpTitle": "さよなら…乱菊",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-02-08",
@@ -4394,13 +4704,14 @@ window.BLEACH_ITEMS = [
     "episode": 308,
     "seasonEpisode": 43,
     "category": "tva",
-    "no": 315
+    "no": 315,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-309",
-    "title": "309화 激闘決着！放て、最後の月牙天衝！",
+    "title": "블리치 6기 44화",
     "jpTitle": "激闘決着！放て、最後の月牙天衝！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-02-15",
@@ -4408,13 +4719,14 @@ window.BLEACH_ITEMS = [
     "episode": 309,
     "seasonEpisode": 44,
     "category": "tva",
-    "no": 316
+    "no": 316,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-310",
-    "title": "310화 一護の覚悟！激闘の代償",
+    "title": "블리치 6기 45화",
     "jpTitle": "一護の覚悟！激闘の代償",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-02-22",
@@ -4422,13 +4734,14 @@ window.BLEACH_ITEMS = [
     "episode": 310,
     "seasonEpisode": 45,
     "category": "tva",
-    "no": 317
+    "no": 317,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-311",
-    "title": "311화 魂葬刑事・カラクライザー再発進！",
+    "title": "블리치 6기 46화",
     "jpTitle": "魂葬刑事・カラクライザー再発進！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-03-01",
@@ -4436,13 +4749,14 @@ window.BLEACH_ITEMS = [
     "episode": 311,
     "seasonEpisode": 46,
     "category": "tva",
-    "no": 318
+    "no": 318,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-312",
-    "title": "312화 就任！新たなる二番隊隊長！",
+    "title": "블리치 6기 47화",
     "jpTitle": "就任！新たなる二番隊隊長！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-03-08",
@@ -4450,13 +4764,14 @@ window.BLEACH_ITEMS = [
     "episode": 312,
     "seasonEpisode": 47,
     "category": "tva",
-    "no": 319
+    "no": 319,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-313",
-    "title": "313화 十一番隊に命を賭けた男！",
+    "title": "블리치 6기 48화",
     "jpTitle": "十一番隊に命を賭けた男！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-03-15",
@@ -4464,13 +4779,14 @@ window.BLEACH_ITEMS = [
     "episode": 313,
     "seasonEpisode": 48,
     "category": "tva",
-    "no": 320
+    "no": 320,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-314",
-    "title": "314화 コンは見た！美人OL（オーエル）の秘密",
+    "title": "블리치 6기 49화",
     "jpTitle": "コンは見た！美人OL（オーエル）の秘密",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-03-22",
@@ -4478,13 +4794,14 @@ window.BLEACH_ITEMS = [
     "episode": 314,
     "seasonEpisode": 49,
     "category": "tva",
-    "no": 321
+    "no": 321,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-315",
-    "title": "315화 やちるの友！正義の死神登場！",
+    "title": "블리치 6기 50화",
     "jpTitle": "やちるの友！正義の死神登場！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-03-29",
@@ -4492,13 +4809,14 @@ window.BLEACH_ITEMS = [
     "episode": 315,
     "seasonEpisode": 50,
     "category": "tva",
-    "no": 322
+    "no": 322,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-316",
-    "title": "316화 日番谷冬獅郎の休日！",
+    "title": "블리치 6기 51화",
     "jpTitle": "日番谷冬獅郎の休日！",
-    "source": "블리치 6기 (자막)",
+    "source": "블리치 6기",
     "url": "https://www.tving.com/contents/P001756541",
     "linkType": "작품 페이지",
     "original": "2011-04-05",
@@ -4506,13 +4824,14 @@ window.BLEACH_ITEMS = [
     "episode": 316,
     "seasonEpisode": 51,
     "category": "tva",
-    "no": 323
+    "no": 323,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-317",
-    "title": "317화 瀞霊廷に異変！護廷十三隊侵軍篇!",
+    "title": "블리치 7기 1화",
     "jpTitle": "瀞霊廷に異変！護廷十三隊侵軍篇!",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-04-12",
@@ -4520,13 +4839,14 @@ window.BLEACH_ITEMS = [
     "episode": 317,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 324
+    "no": 324,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-318",
-    "title": "318화 恋次vsルキア!? 仲間との戦い！",
+    "title": "블리치 7기 2화",
     "jpTitle": "恋次vsルキア!? 仲間との戦い！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-04-19",
@@ -4534,13 +4854,14 @@ window.BLEACH_ITEMS = [
     "episode": 318,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 325
+    "no": 325,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-319",
-    "title": "319화 一護捕縛網！尸魂界（ソウル・ソサエティ）を脱出せよ！",
+    "title": "블리치 7기 3화",
     "jpTitle": "一護捕縛網！尸魂界（ソウル・ソサエティ）を脱出せよ！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-04-26",
@@ -4548,13 +4869,14 @@ window.BLEACH_ITEMS = [
     "episode": 319,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 326
+    "no": 326,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-320",
-    "title": "320화 護廷十三隊、現世に集結！",
+    "title": "블리치 7기 4화",
     "jpTitle": "護廷十三隊、現世に集結！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-05-03",
@@ -4562,13 +4884,14 @@ window.BLEACH_ITEMS = [
     "episode": 320,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 327
+    "no": 327,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-321",
-    "title": "321화 一角vs一角！自分同士の戦い！",
+    "title": "블리치 7기 5화",
     "jpTitle": "一角vs一角！自分同士の戦い！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-05-10",
@@ -4576,13 +4899,14 @@ window.BLEACH_ITEMS = [
     "episode": 321,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 328
+    "no": 328,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-322",
-    "title": "322화 激突！ルキアvsルキア！",
+    "title": "블리치 7기 6화",
     "jpTitle": "激突！ルキアvsルキア！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-05-17",
@@ -4590,13 +4914,14 @@ window.BLEACH_ITEMS = [
     "episode": 322,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 329
+    "no": 329,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-323",
-    "title": "323화 護れ一護！望実の決意！",
+    "title": "블리치 7기 7화",
     "jpTitle": "護れ一護！望実の決意！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-05-24",
@@ -4604,13 +4929,14 @@ window.BLEACH_ITEMS = [
     "episode": 323,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 330
+    "no": 330,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-324",
-    "title": "324화 瀞霊廷奪還へ！隊長たち、動く！",
+    "title": "블리치 7기 8화",
     "jpTitle": "瀞霊廷奪還へ！隊長たち、動く！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-05-31",
@@ -4618,13 +4944,14 @@ window.BLEACH_ITEMS = [
     "episode": 324,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 331
+    "no": 331,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-325",
-    "title": "325화 信ずるものの為に！白哉vs日番谷！",
+    "title": "블리치 7기 9화",
     "jpTitle": "信ずるものの為に！白哉vs日番谷！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-06-07",
@@ -4632,13 +4959,14 @@ window.BLEACH_ITEMS = [
     "episode": 325,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 332
+    "no": 332,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-326",
-    "title": "326화 ふたりの雛森、日番谷の覚悟",
+    "title": "블리치 7기 10화",
     "jpTitle": "ふたりの雛森、日番谷の覚悟",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-06-14",
@@ -4646,13 +4974,14 @@ window.BLEACH_ITEMS = [
     "episode": 326,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 333
+    "no": 333,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-327",
-    "title": "327화 朽木家の誇り！白哉vs白哉！",
+    "title": "블리치 7기 11화",
     "jpTitle": "朽木家の誇り！白哉vs白哉！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-06-21",
@@ -4660,13 +4989,14 @@ window.BLEACH_ITEMS = [
     "episode": 327,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 334
+    "no": 334,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-328",
-    "title": "328화 影狼佐を倒せ！死神、総力戦！",
+    "title": "블리치 7기 12화",
     "jpTitle": "影狼佐を倒せ！死神、総力戦！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-06-28",
@@ -4674,13 +5004,14 @@ window.BLEACH_ITEMS = [
     "episode": 328,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 335
+    "no": 335,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-329",
-    "title": "329화 禁断の研究…望実に隠された秘密！",
+    "title": "블리치 7기 13화",
     "jpTitle": "禁断の研究…望実に隠された秘密！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-07-05",
@@ -4688,13 +5019,14 @@ window.BLEACH_ITEMS = [
     "episode": 329,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 336
+    "no": 336,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-330",
-    "title": "330화 生きたい…！望実の斬魄刀",
+    "title": "블리치 7기 14화",
     "jpTitle": "生きたい…！望実の斬魄刀",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-07-12",
@@ -4702,13 +5034,14 @@ window.BLEACH_ITEMS = [
     "episode": 330,
     "seasonEpisode": 14,
     "category": "tva",
-    "no": 337
+    "no": 337,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-331",
-    "title": "331화 戦うために！目覚めよ望実！",
+    "title": "블리치 7기 15화",
     "jpTitle": "戦うために！目覚めよ望実！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-07-19",
@@ -4716,13 +5049,14 @@ window.BLEACH_ITEMS = [
     "episode": 331,
     "seasonEpisode": 15,
     "category": "tva",
-    "no": 338
+    "no": 338,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-332",
-    "title": "332화 最凶の霊骸、現世に現る！",
+    "title": "블리치 7기 16화",
     "jpTitle": "最凶の霊骸、現世に現る！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-07-26",
@@ -4730,13 +5064,14 @@ window.BLEACH_ITEMS = [
     "episode": 332,
     "seasonEpisode": 16,
     "category": "tva",
-    "no": 339
+    "no": 339,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-333",
-    "title": "333화 望実を消す!? 元柳斎の決断！",
+    "title": "블리치 7기 17화",
     "jpTitle": "望実を消す!? 元柳斎の決断！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-08-02",
@@ -4744,13 +5079,14 @@ window.BLEACH_ITEMS = [
     "episode": 333,
     "seasonEpisode": 17,
     "category": "tva",
-    "no": 340
+    "no": 340,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-334",
-    "title": "334화 失われる霊圧！一護、魂の死闘！",
+    "title": "블리치 7기 18화",
     "jpTitle": "失われる霊圧！一護、魂の死闘！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-08-09",
@@ -4758,13 +5094,14 @@ window.BLEACH_ITEMS = [
     "episode": 334,
     "seasonEpisode": 18,
     "category": "tva",
-    "no": 341
+    "no": 341,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-335",
-    "title": "335화 断界に潜伏？もう一人の一護!?",
+    "title": "블리치 7기 19화",
     "jpTitle": "断界に潜伏？もう一人の一護!?",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-08-16",
@@ -4772,13 +5109,14 @@ window.BLEACH_ITEMS = [
     "episode": 335,
     "seasonEpisode": 19,
     "category": "tva",
-    "no": 342
+    "no": 342,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-336",
-    "title": "336화 影狼佐を追え！技術開発局、潜入！",
+    "title": "블리치 7기 20화",
     "jpTitle": "影狼佐を追え！技術開発局、潜入！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-08-23",
@@ -4786,13 +5124,14 @@ window.BLEACH_ITEMS = [
     "episode": 336,
     "seasonEpisode": 20,
     "category": "tva",
-    "no": 343
+    "no": 343,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-337",
-    "title": "337화 改造魂魄の開発者",
+    "title": "블리치 7기 21화",
     "jpTitle": "改造魂魄の開発者",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-08-30",
@@ -4800,13 +5139,14 @@ window.BLEACH_ITEMS = [
     "episode": 337,
     "seasonEpisode": 21,
     "category": "tva",
-    "no": 344
+    "no": 344,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-338",
-    "title": "338화 コンの想い、望実の想い",
+    "title": "블리치 7기 22화",
     "jpTitle": "コンの想い、望実の想い",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-09-06",
@@ -4814,13 +5154,14 @@ window.BLEACH_ITEMS = [
     "episode": 338,
     "seasonEpisode": 22,
     "category": "tva",
-    "no": 345
+    "no": 345,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-339",
-    "title": "339화 一護を護れ！仲間たちの絆！",
+    "title": "블리치 7기 23화",
     "jpTitle": "一護を護れ！仲間たちの絆！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-09-13",
@@ -4828,13 +5169,14 @@ window.BLEACH_ITEMS = [
     "episode": 339,
     "seasonEpisode": 23,
     "category": "tva",
-    "no": 346
+    "no": 346,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-340",
-    "title": "340화 霊骸vs原種、誇りを賭けた激闘！",
+    "title": "블리치 7기 24화",
     "jpTitle": "霊骸vs原種、誇りを賭けた激闘！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-09-20",
@@ -4842,13 +5184,14 @@ window.BLEACH_ITEMS = [
     "episode": 340,
     "seasonEpisode": 24,
     "category": "tva",
-    "no": 347
+    "no": 347,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-341",
-    "title": "341화 侵軍篇、最終決着！",
+    "title": "블리치 7기 25화",
     "jpTitle": "侵軍篇、最終決着！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-09-27",
@@ -4856,13 +5199,14 @@ window.BLEACH_ITEMS = [
     "episode": 341,
     "seasonEpisode": 25,
     "category": "tva",
-    "no": 348
+    "no": 348,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-342",
-    "title": "342화 ありがとう",
+    "title": "블리치 7기 26화",
     "jpTitle": "ありがとう",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-10-04",
@@ -4870,13 +5214,14 @@ window.BLEACH_ITEMS = [
     "episode": 342,
     "seasonEpisode": 26,
     "category": "tva",
-    "no": 349
+    "no": 349,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-343",
-    "title": "343화 高校3年生！装い新たに新章開始！",
+    "title": "블리치 7기 27화",
     "jpTitle": "高校3年生！装い新たに新章開始！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-10-11",
@@ -4884,13 +5229,14 @@ window.BLEACH_ITEMS = [
     "episode": 343,
     "seasonEpisode": 27,
     "category": "tva",
-    "no": 350
+    "no": 350,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-344",
-    "title": "344화 学校間抗争!? 一護と雨竜、共闘！",
+    "title": "블리치 7기 28화",
     "jpTitle": "学校間抗争!? 一護と雨竜、共闘！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-10-18",
@@ -4898,13 +5244,14 @@ window.BLEACH_ITEMS = [
     "episode": 344,
     "seasonEpisode": 28,
     "category": "tva",
-    "no": 351
+    "no": 351,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-345",
-    "title": "345화 襲われた雨竜、仲間達に迫る脅威！",
+    "title": "블리치 7기 29화",
     "jpTitle": "襲われた雨竜、仲間達に迫る脅威！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-10-25",
@@ -4912,13 +5259,14 @@ window.BLEACH_ITEMS = [
     "episode": 345,
     "seasonEpisode": 29,
     "category": "tva",
-    "no": 352
+    "no": 352,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-346",
-    "title": "346화 完現術（フルブリング）の能力者・銀城空吾",
+    "title": "블리치 7기 30화",
     "jpTitle": "完現術（フルブリング）の能力者・銀城空吾",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-11-01",
@@ -4926,13 +5274,14 @@ window.BLEACH_ITEMS = [
     "episode": 346,
     "seasonEpisode": 30,
     "category": "tva",
-    "no": 353
+    "no": 353,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-347",
-    "title": "347화 黒崎家に忍び寄る危機!? 一護の迷い！",
+    "title": "블리치 7기 31화",
     "jpTitle": "黒崎家に忍び寄る危機!? 一護の迷い！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-11-08",
@@ -4940,13 +5289,14 @@ window.BLEACH_ITEMS = [
     "episode": 347,
     "seasonEpisode": 31,
     "category": "tva",
-    "no": 354
+    "no": 354,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-348",
-    "title": "348화 代行証の力、一護の\"誇り\"！",
+    "title": "블리치 7기 32화",
     "jpTitle": "代行証の力、一護の\"誇り\"！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-11-15",
@@ -4954,13 +5304,14 @@ window.BLEACH_ITEMS = [
     "episode": 348,
     "seasonEpisode": 32,
     "category": "tva",
-    "no": 355
+    "no": 355,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-349",
-    "title": "349화 次の標的、織姫を襲う魔の手！",
+    "title": "블리치 7기 33화",
     "jpTitle": "次の標的、織姫を襲う魔の手！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-11-22",
@@ -4968,13 +5319,14 @@ window.BLEACH_ITEMS = [
     "episode": 349,
     "seasonEpisode": 33,
     "category": "tva",
-    "no": 356
+    "no": 356,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-350",
-    "title": "350화 死神代行を殺した男!? 動き出す月島",
+    "title": "블리치 7기 34화",
     "jpTitle": "死神代行を殺した男!? 動き出す月島",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-11-29",
@@ -4982,13 +5334,14 @@ window.BLEACH_ITEMS = [
     "episode": 350,
     "seasonEpisode": 34,
     "category": "tva",
-    "no": 357
+    "no": 357,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-351",
-    "title": "351화 フルブリング、忌み嫌われた力！",
+    "title": "블리치 7기 35화",
     "jpTitle": "フルブリング、忌み嫌われた力！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-12-06",
@@ -4996,13 +5349,14 @@ window.BLEACH_ITEMS = [
     "episode": 351,
     "seasonEpisode": 35,
     "category": "tva",
-    "no": 358
+    "no": 358,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-352",
-    "title": "352화 月島、急襲！妨害された修業！",
+    "title": "블리치 7기 36화",
     "jpTitle": "月島、急襲！妨害された修業！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-12-13",
@@ -5010,13 +5364,14 @@ window.BLEACH_ITEMS = [
     "episode": 352,
     "seasonEpisode": 36,
     "category": "tva",
-    "no": 359
+    "no": 359,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-353",
-    "title": "353화 激闘へ！一護、完現術（フルブリング）を使いこなせ！",
+    "title": "블리치 7기 37화",
     "jpTitle": "激闘へ！一護、完現術（フルブリング）を使いこなせ！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-12-20",
@@ -5024,13 +5379,14 @@ window.BLEACH_ITEMS = [
     "episode": 353,
     "seasonEpisode": 37,
     "category": "tva",
-    "no": 360
+    "no": 360,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-354",
-    "title": "354화 一護vs銀城、ゲームの空間へ！",
+    "title": "블리치 7기 38화",
     "jpTitle": "一護vs銀城、ゲームの空間へ！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2011-12-27",
@@ -5038,13 +5394,14 @@ window.BLEACH_ITEMS = [
     "episode": 354,
     "seasonEpisode": 38,
     "category": "tva",
-    "no": 361
+    "no": 361,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-355",
-    "title": "355화 死神参戦！瀞霊廷もお正月SP（スペシャル）！",
+    "title": "블리치 7기 39화",
     "jpTitle": "死神参戦！瀞霊廷もお正月SP（スペシャル）！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-01-10",
@@ -5052,13 +5409,14 @@ window.BLEACH_ITEMS = [
     "episode": 355,
     "seasonEpisode": 39,
     "category": "tva",
-    "no": 362
+    "no": 362,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-356",
-    "title": "356화 敵か味方か!? 銀城の見えない心！",
+    "title": "블리치 7기 40화",
     "jpTitle": "敵か味方か!? 銀城の見えない心！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-01-17",
@@ -5066,13 +5424,14 @@ window.BLEACH_ITEMS = [
     "episode": 356,
     "seasonEpisode": 40,
     "category": "tva",
-    "no": 363
+    "no": 363,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-357",
-    "title": "357화 忍び寄る脅威…月島の能力！",
+    "title": "블리치 7기 41화",
     "jpTitle": "忍び寄る脅威…月島の能力！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-01-24",
@@ -5080,13 +5439,14 @@ window.BLEACH_ITEMS = [
     "episode": 357,
     "seasonEpisode": 41,
     "category": "tva",
-    "no": 364
+    "no": 364,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-358",
-    "title": "358화 激突!? 銀城を襲うXCUTION！",
+    "title": "블리치 7기 42화",
     "jpTitle": "激突!? 銀城を襲うXCUTION！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-01-31",
@@ -5094,13 +5454,14 @@ window.BLEACH_ITEMS = [
     "episode": 358,
     "seasonEpisode": 42,
     "category": "tva",
-    "no": 365
+    "no": 365,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-359",
-    "title": "359화 哀しみの戦い！一護vs茶渡&織姫！",
+    "title": "블리치 7기 43화",
     "jpTitle": "哀しみの戦い！一護vs茶渡&織姫！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-02-07",
@@ -5108,13 +5469,14 @@ window.BLEACH_ITEMS = [
     "episode": 359,
     "seasonEpisode": 43,
     "category": "tva",
-    "no": 366
+    "no": 366,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-360",
-    "title": "360화 一護vs雨竜!? 裏切り者は誰だ！",
+    "title": "블리치 7기 44화",
     "jpTitle": "一護vs雨竜!? 裏切り者は誰だ！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-02-14",
@@ -5122,13 +5484,14 @@ window.BLEACH_ITEMS = [
     "episode": 360,
     "seasonEpisode": 44,
     "category": "tva",
-    "no": 367
+    "no": 367,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-361",
-    "title": "361화 新たな姿！護廷十三隊、見参！",
+    "title": "블리치 7기 45화",
     "jpTitle": "新たな姿！護廷十三隊、見参！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-02-21",
@@ -5136,13 +5499,14 @@ window.BLEACH_ITEMS = [
     "episode": 361,
     "seasonEpisode": 45,
     "category": "tva",
-    "no": 368
+    "no": 368,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-362",
-    "title": "362화 復活！死神代行・黒崎一護！",
+    "title": "블리치 7기 46화",
     "jpTitle": "復活！死神代行・黒崎一護！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-02-28",
@@ -5150,13 +5514,14 @@ window.BLEACH_ITEMS = [
     "episode": 362,
     "seasonEpisode": 46,
     "category": "tva",
-    "no": 369
+    "no": 369,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-363",
-    "title": "363화 激闘！死神vsXCUTION！",
+    "title": "블리치 7기 47화",
     "jpTitle": "激闘！死神vsXCUTION！",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-03-06",
@@ -5164,13 +5529,14 @@ window.BLEACH_ITEMS = [
     "episode": 363,
     "seasonEpisode": 47,
     "category": "tva",
-    "no": 370
+    "no": 370,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-364",
-    "title": "364화 絶体絶命!? 過去を挟まれた白哉",
+    "title": "블리치 7기 48화",
     "jpTitle": "絶体絶命!? 過去を挟まれた白哉",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-03-13",
@@ -5178,13 +5544,14 @@ window.BLEACH_ITEMS = [
     "episode": 364,
     "seasonEpisode": 48,
     "category": "tva",
-    "no": 371
+    "no": 371,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-365",
-    "title": "365화 一護vs銀城！代行証の秘密",
+    "title": "블리치 7기 49화",
     "jpTitle": "一護vs銀城！代行証の秘密",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-03-20",
@@ -5192,13 +5559,14 @@ window.BLEACH_ITEMS = [
     "episode": 365,
     "seasonEpisode": 49,
     "category": "tva",
-    "no": 372
+    "no": 372,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-366",
-    "title": "366화 変わりゆく歴史、変わらぬ心",
+    "title": "블리치 7기 50화",
     "jpTitle": "変わりゆく歴史、変わらぬ心",
-    "source": "블리치 7기 (자막)",
+    "source": "블리치 7기",
     "url": "https://www.tving.com/contents/P001760845",
     "linkType": "작품 페이지",
     "original": "2012-03-27",
@@ -5206,7 +5574,8 @@ window.BLEACH_ITEMS = [
     "episode": 366,
     "seasonEpisode": 50,
     "category": "tva",
-    "no": 373
+    "no": 373,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-live-1",
@@ -5222,7 +5591,7 @@ window.BLEACH_ITEMS = [
   },
   {
     "id": "bleach-tv-367",
-    "title": "천년혈전 1화 The Blood Warfare",
+    "title": "블리치 천년혈전 편 (자막) 1화",
     "jpTitle": "The Blood Warfare",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5232,11 +5601,12 @@ window.BLEACH_ITEMS = [
     "episode": 367,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 375
+    "no": 375,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-368",
-    "title": "천년혈전 2화 Foundation Stones",
+    "title": "블리치 천년혈전 편 (자막) 2화",
     "jpTitle": "Foundation Stones",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5246,11 +5616,12 @@ window.BLEACH_ITEMS = [
     "episode": 368,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 376
+    "no": 376,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-369",
-    "title": "천년혈전 3화 March of the StarCross",
+    "title": "블리치 천년혈전 편 (자막) 3화",
     "jpTitle": "March of the StarCross",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5260,11 +5631,12 @@ window.BLEACH_ITEMS = [
     "episode": 369,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 377
+    "no": 377,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-370",
-    "title": "천년혈전 4화 Kill the Shadow",
+    "title": "블리치 천년혈전 편 (자막) 4화",
     "jpTitle": "Kill the Shadow",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5274,11 +5646,12 @@ window.BLEACH_ITEMS = [
     "episode": 370,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 378
+    "no": 378,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-371",
-    "title": "천년혈전 5화 Wrath as a Lightning",
+    "title": "블리치 천년혈전 편 (자막) 5화",
     "jpTitle": "Wrath as a Lightning",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5288,11 +5661,12 @@ window.BLEACH_ITEMS = [
     "episode": 371,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 379
+    "no": 379,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-372",
-    "title": "천년혈전 6화 The Fire",
+    "title": "블리치 천년혈전 편 (자막) 6화",
     "jpTitle": "The Fire",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5302,11 +5676,12 @@ window.BLEACH_ITEMS = [
     "episode": 372,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 380
+    "no": 380,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-373",
-    "title": "천년혈전 7화 Born in the Dark",
+    "title": "블리치 천년혈전 편 (자막) 7화",
     "jpTitle": "Born in the Dark",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5316,11 +5691,12 @@ window.BLEACH_ITEMS = [
     "episode": 373,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 381
+    "no": 381,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-374",
-    "title": "천년혈전 8화 The Shooting Star Project (Zero Mix)",
+    "title": "블리치 천년혈전 편 (자막) 8화",
     "jpTitle": "The Shooting Star Project (Zero Mix)",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5330,11 +5706,12 @@ window.BLEACH_ITEMS = [
     "episode": 374,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 382
+    "no": 382,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-375",
-    "title": "천년혈전 9화 The Drop",
+    "title": "블리치 천년혈전 편 (자막) 9화",
     "jpTitle": "The Drop",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5344,11 +5721,12 @@ window.BLEACH_ITEMS = [
     "episode": 375,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 383
+    "no": 383,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-376",
-    "title": "천년혈전 10화 The Battle",
+    "title": "블리치 천년혈전 편 (자막) 10화",
     "jpTitle": "The Battle",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5358,11 +5736,12 @@ window.BLEACH_ITEMS = [
     "episode": 376,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 384
+    "no": 384,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-377",
-    "title": "천년혈전 11화 Everything But the Rain",
+    "title": "블리치 천년혈전 편 (자막) 11화",
     "jpTitle": "Everything But the Rain",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5372,11 +5751,12 @@ window.BLEACH_ITEMS = [
     "episode": 377,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 385
+    "no": 385,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-378",
-    "title": "천년혈전 12화 Everything But the Rain \"June Truth\"",
+    "title": "블리치 천년혈전 편 (자막) 12화",
     "jpTitle": "Everything But the Rain \"June Truth\"",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5386,11 +5766,12 @@ window.BLEACH_ITEMS = [
     "episode": 378,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 386
+    "no": 386,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-379",
-    "title": "천년혈전 13화 The Blade Is Me",
+    "title": "블리치 천년혈전 편 (자막) 13화",
     "jpTitle": "The Blade Is Me",
     "source": "블리치 천년혈전 편 (자막)",
     "url": "https://www.tving.com/contents/P001723559",
@@ -5400,11 +5781,12 @@ window.BLEACH_ITEMS = [
     "episode": 379,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 387
+    "no": 387,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-380",
-    "title": "천년혈전 14화 The Last 9 Days",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 1화",
     "jpTitle": "The Last 9 Days",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5414,11 +5796,12 @@ window.BLEACH_ITEMS = [
     "episode": 380,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 388
+    "no": 388,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-381",
-    "title": "천년혈전 15화 Peace from Shadows",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 2화",
     "jpTitle": "Peace from Shadows",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5428,11 +5811,12 @@ window.BLEACH_ITEMS = [
     "episode": 381,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 389
+    "no": 389,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-382",
-    "title": "천년혈전 16화 The Fundamental Virulence",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 3화",
     "jpTitle": "The Fundamental Virulence",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5442,11 +5826,12 @@ window.BLEACH_ITEMS = [
     "episode": 382,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 390
+    "no": 390,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-383",
-    "title": "천년혈전 17화 Heart of Wolf",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 4화",
     "jpTitle": "Heart of Wolf",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5456,11 +5841,12 @@ window.BLEACH_ITEMS = [
     "episode": 383,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 391
+    "no": 391,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-384",
-    "title": "천년혈전 18화 Rages at Ringside",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 5화",
     "jpTitle": "Rages at Ringside",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5470,11 +5856,12 @@ window.BLEACH_ITEMS = [
     "episode": 384,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 392
+    "no": 392,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-385",
-    "title": "천년혈전 19화 The White Haze",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 6화",
     "jpTitle": "The White Haze",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5484,11 +5871,12 @@ window.BLEACH_ITEMS = [
     "episode": 385,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 393
+    "no": 393,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-386",
-    "title": "천년혈전 20화 I Am the Edge",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 7화",
     "jpTitle": "I Am the Edge",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5498,11 +5886,12 @@ window.BLEACH_ITEMS = [
     "episode": 386,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 394
+    "no": 394,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-387",
-    "title": "천년혈전 21화 The Headless Star",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 8화",
     "jpTitle": "The Headless Star",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5512,11 +5901,12 @@ window.BLEACH_ITEMS = [
     "episode": 387,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 395
+    "no": 395,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-388",
-    "title": "천년혈전 22화 Marching Out the Zombies",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 9화",
     "jpTitle": "Marching Out the Zombies",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5526,11 +5916,12 @@ window.BLEACH_ITEMS = [
     "episode": 388,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 396
+    "no": 396,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-389",
-    "title": "천년혈전 23화 Marching Out the Zombies 2",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 10화",
     "jpTitle": "Marching Out the Zombies 2",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5540,11 +5931,12 @@ window.BLEACH_ITEMS = [
     "episode": 389,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 397
+    "no": 397,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-390",
-    "title": "천년혈전 24화 Too Early to Win, Too Late to Know",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 11화",
     "jpTitle": "Too Early to Win, Too Late to Know",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5554,11 +5946,12 @@ window.BLEACH_ITEMS = [
     "episode": 390,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 398
+    "no": 398,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-391",
-    "title": "천년혈전 25화 The Master",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 12화",
     "jpTitle": "The Master",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5568,11 +5961,12 @@ window.BLEACH_ITEMS = [
     "episode": 391,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 399
+    "no": 399,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-392",
-    "title": "천년혈전 26화 Black",
+    "title": "블리치 천년혈전 편 : 결별담 (자막) 13화",
     "jpTitle": "Black",
     "source": "블리치 천년혈전 편 : 결별담 (자막)",
     "url": "https://www.tving.com/contents/P001755058",
@@ -5582,11 +5976,12 @@ window.BLEACH_ITEMS = [
     "episode": 392,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 400
+    "no": 400,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-393",
-    "title": "천년혈전 27화 A",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 1화",
     "jpTitle": "A",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5596,11 +5991,12 @@ window.BLEACH_ITEMS = [
     "episode": 393,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 401
+    "no": 401,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-394",
-    "title": "천년혈전 28화 Kill the King",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 2화",
     "jpTitle": "Kill the King",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5610,11 +6006,12 @@ window.BLEACH_ITEMS = [
     "episode": 394,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 402
+    "no": 402,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-395",
-    "title": "천년혈전 29화 The Dark Arm",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 3화",
     "jpTitle": "The Dark Arm",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5624,11 +6021,12 @@ window.BLEACH_ITEMS = [
     "episode": 395,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 403
+    "no": 403,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-396",
-    "title": "천년혈전 30화 The Betrayer",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 4화",
     "jpTitle": "The Betrayer",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5638,11 +6036,12 @@ window.BLEACH_ITEMS = [
     "episode": 396,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 404
+    "no": 404,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-397",
-    "title": "천년혈전 31화 Against the Judgement",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 5화",
     "jpTitle": "Against the Judgement",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5652,11 +6051,12 @@ window.BLEACH_ITEMS = [
     "episode": 397,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 405
+    "no": 405,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-398",
-    "title": "천년혈전 32화 The Holy Newborn",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 6화",
     "jpTitle": "The Holy Newborn",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5666,11 +6066,12 @@ window.BLEACH_ITEMS = [
     "episode": 398,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 406
+    "no": 406,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-399",
-    "title": "천년혈전 33화 Gate of the Sun",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 7화",
     "jpTitle": "Gate of the Sun",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5680,11 +6081,12 @@ window.BLEACH_ITEMS = [
     "episode": 399,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 407
+    "no": 407,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-400",
-    "title": "천년혈전 34화 Baby, Hold Your Hand",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 8화",
     "jpTitle": "Baby, Hold Your Hand",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5694,11 +6096,12 @@ window.BLEACH_ITEMS = [
     "episode": 400,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 408
+    "no": 408,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-401",
-    "title": "천년혈전 35화 Don't Chase a Shadow",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 9화",
     "jpTitle": "Don't Chase a Shadow",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5708,11 +6111,12 @@ window.BLEACH_ITEMS = [
     "episode": 401,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 409
+    "no": 409,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-402",
-    "title": "천년혈전 36화 Baby, Hold Your Hand 2 [Never Ending My Dream]",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 10화",
     "jpTitle": "Baby, Hold Your Hand 2 [Never Ending My Dream]",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5722,11 +6126,12 @@ window.BLEACH_ITEMS = [
     "episode": 402,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 410
+    "no": 410,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-403",
-    "title": "천년혈전 37화 Shadows Gone",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 11화",
     "jpTitle": "Shadows Gone",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5736,11 +6141,12 @@ window.BLEACH_ITEMS = [
     "episode": 403,
     "seasonEpisode": 11,
     "category": "tva",
-    "no": 411
+    "no": 411,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-404",
-    "title": "천년혈전 38화 Friend",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 12화",
     "jpTitle": "Friend",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5750,11 +6156,12 @@ window.BLEACH_ITEMS = [
     "episode": 404,
     "seasonEpisode": 12,
     "category": "tva",
-    "no": 412
+    "no": 412,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-405",
-    "title": "천년혈전 39화 The Visible Answer",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 13화",
     "jpTitle": "The Visible Answer",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5764,11 +6171,12 @@ window.BLEACH_ITEMS = [
     "episode": 405,
     "seasonEpisode": 13,
     "category": "tva",
-    "no": 413
+    "no": 413,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-406",
-    "title": "천년혈전 40화 My Last Words",
+    "title": "블리치 천년혈전 편 : 상극담 (자막) 14화",
     "jpTitle": "My Last Words",
     "source": "블리치 천년혈전 편 : 상극담 (자막)",
     "url": "https://www.tving.com/contents/P001773053",
@@ -5778,13 +6186,14 @@ window.BLEACH_ITEMS = [
     "episode": 406,
     "seasonEpisode": 14,
     "category": "tva",
-    "no": 414
+    "no": 414,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-407",
-    "title": "천년혈전 41화 God of Thunder",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 1화",
     "jpTitle": "God of Thunder",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-07-25",
@@ -5792,13 +6201,14 @@ window.BLEACH_ITEMS = [
     "episode": 407,
     "seasonEpisode": 1,
     "category": "tva",
-    "no": 415
+    "no": 415,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-408",
-    "title": "천년혈전 42화 Son of Darkness",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 2화",
     "jpTitle": "Son of Darkness",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-08-01",
@@ -5806,13 +6216,14 @@ window.BLEACH_ITEMS = [
     "episode": 408,
     "seasonEpisode": 2,
     "category": "tva",
-    "no": 416
+    "no": 416,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-409",
-    "title": "천년혈전 43화 Blood for My Bone",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 3화",
     "jpTitle": "Blood for My Bone",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-08-08",
@@ -5820,13 +6231,14 @@ window.BLEACH_ITEMS = [
     "episode": 409,
     "seasonEpisode": 3,
     "category": "tva",
-    "no": 417
+    "no": 417,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-410",
-    "title": "천년혈전 44화 The Perfect Crimson",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 4화",
     "jpTitle": "The Perfect Crimson",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-08-15",
@@ -5834,13 +6246,14 @@ window.BLEACH_ITEMS = [
     "episode": 410,
     "seasonEpisode": 4,
     "category": "tva",
-    "no": 418
+    "no": 418,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-411",
-    "title": "천년혈전 45화 Defend You",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 5화",
     "jpTitle": "Defend You",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-08-22",
@@ -5848,13 +6261,14 @@ window.BLEACH_ITEMS = [
     "episode": 411,
     "seasonEpisode": 5,
     "category": "tva",
-    "no": 419
+    "no": 419,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-412",
-    "title": "천년혈전 46화 The End",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 6화",
     "jpTitle": "The End",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-08-29",
@@ -5862,13 +6276,14 @@ window.BLEACH_ITEMS = [
     "episode": 412,
     "seasonEpisode": 6,
     "category": "tva",
-    "no": 420
+    "no": 420,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-413",
-    "title": "천년혈전 47화 The End 2",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 7화",
     "jpTitle": "The End 2",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-09-05",
@@ -5876,13 +6291,14 @@ window.BLEACH_ITEMS = [
     "episode": 413,
     "seasonEpisode": 7,
     "category": "tva",
-    "no": 421
+    "no": 421,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-414",
-    "title": "천년혈전 48화 The End Two World",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 8화",
     "jpTitle": "The End Two World",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-09-12",
@@ -5890,13 +6306,14 @@ window.BLEACH_ITEMS = [
     "episode": 414,
     "seasonEpisode": 8,
     "category": "tva",
-    "no": 422
+    "no": 422,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-415",
-    "title": "천년혈전 49화 The Blade",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 9화",
     "jpTitle": "The Blade",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-10-20",
@@ -5904,13 +6321,14 @@ window.BLEACH_ITEMS = [
     "episode": 415,
     "seasonEpisode": 9,
     "category": "tva",
-    "no": 423
+    "no": 423,
+    "titleBasis": "tving-season-episode"
   },
   {
     "id": "bleach-tv-416",
-    "title": "천년혈전 50화 Death & Strawberry",
+    "title": "블리치 천년혈전 편 : 화진담(자막) 10화",
     "jpTitle": "Death & Strawberry",
-    "source": "블리치 천년혈전 편 : 화진담 (자막)",
+    "source": "블리치 천년혈전 편 : 화진담(자막)",
     "url": "https://www.tving.com/contents/P001789808",
     "linkType": "작품 페이지",
     "original": "2026-10-27",
@@ -5918,6 +6336,7 @@ window.BLEACH_ITEMS = [
     "episode": 416,
     "seasonEpisode": 10,
     "category": "tva",
-    "no": 424
+    "no": 424,
+    "titleBasis": "tving-season-episode"
   }
 ];
