@@ -76,7 +76,7 @@ a:focus-visible {
 
 .app-header {
   display: grid;
-  grid-template-columns: 128px minmax(0, 1fr);
+  grid-template-columns: 128px minmax(0, 1fr) auto;
   gap: 20px;
   align-items: center;
   padding: 22px 28px;
@@ -140,6 +140,97 @@ body[data-library="ninjago"] .app-header {
 
 .header-main {
   min-width: 0;
+}
+
+.account-button {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  align-self: start;
+  max-width: 220px;
+  border-color: rgba(255, 255, 255, 0.34);
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.account-button:hover {
+  border-color: rgba(255, 255, 255, 0.62);
+  background: rgba(255, 255, 255, 0.16);
+}
+
+.account-icon {
+  display: block;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+  color: transparent;
+  box-shadow: inset 0 -5px 0 0 #fff;
+}
+
+.account-dialog {
+  position: fixed;
+  inset: 0;
+  z-index: 35;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  background: rgba(15, 23, 42, 0.64);
+  color: #fff;
+  backdrop-filter: blur(4px);
+}
+
+.account-dialog[hidden] {
+  display: none;
+}
+
+.account-dialog-panel {
+  width: min(430px, 100%);
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 8px;
+  background: #172033;
+  box-shadow: 0 24px 70px rgba(15, 23, 42, 0.42);
+}
+
+.login-form,
+.signed-in-panel {
+  display: grid;
+  gap: 12px;
+}
+
+.login-form[hidden],
+.signed-in-panel[hidden] {
+  display: none;
+}
+
+.login-form .field {
+  flex: none;
+  color: #fff;
+}
+
+.login-form input {
+  width: 100%;
+}
+
+.login-form .primary {
+  min-height: 42px;
+}
+
+.signed-in-panel strong,
+.signed-in-panel span {
+  overflow-wrap: anywhere;
+}
+
+.signed-in-panel span {
+  color: #b9d8d4;
+}
+
+.account-message {
+  min-height: 20px;
+  margin: 14px 0 0;
+  color: #d9f2ef;
 }
 
 .library-dialog {
@@ -810,7 +901,7 @@ tbody tr.is-black-organization .watch-control.is-skipped {
 
 @media (max-width: 720px) {
   .app-header {
-    grid-template-columns: 88px minmax(0, 1fr);
+    grid-template-columns: 88px minmax(0, 1fr) auto;
     gap: 12px;
     padding: 16px;
   }
@@ -825,6 +916,21 @@ tbody tr.is-black-organization .watch-control.is-skipped {
 
   h1 {
     font-size: 22px;
+  }
+
+  .account-button {
+    width: 40px;
+    min-width: 40px;
+    padding: 0;
+    justify-content: center;
+  }
+
+  .account-button #accountButtonText {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
   }
 
   .library-dialog-panel {

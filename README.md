@@ -7,4 +7,8 @@
 - 웹 앱: <https://snjghn.github.io/conan-watch-order/>
 - iPhone에서는 Safari로 웹 앱을 연 뒤 `공유` > `홈 화면에 추가` > `추가`를 누르면 앱처럼 실행됩니다.
 
-시청 기록과 설정은 현재 브라우저의 기기에 저장됩니다. PC와 iPhone의 기록은 자동으로 동기화되지 않습니다.
+로그인하지 않은 시청 기록은 현재 브라우저의 기기에 저장됩니다. 같은 이메일로 로그인하면 코난, 괴도키드, 닌자고의 O/X 기록이 PC와 iPhone에서 동기화됩니다.
+
+## 데이터베이스
+
+`supabase-schema.sql`은 시청 기록 테이블과 사용자별 Row Level Security 정책을 생성합니다. 브라우저에는 공개용 publishable key만 포함되며, 비밀 서버 키는 사용하지 않습니다.

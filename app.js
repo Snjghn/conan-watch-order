@@ -280,6 +280,7 @@ let rangeBounds = orderMeta.rangeBounds;
 let tvaItemCount = orderMeta.maxOrderNo;
 const libraryStates = {};
 let state = getLibraryState(activeLibraryId);
+let applyingRemoteSnapshot = false;
 
 const els = {
   appTitle: document.querySelector("#appTitle"),
@@ -361,6 +362,7 @@ function switchLibrary(libraryId) {
   syncLibraryChrome();
   populateSources();
   render();
+  notifyWatchStateChanged();
   showToast(activeLibrary().title);
 }
 
@@ -520,7 +522,70 @@ function readStorageObject(key) {
 
 function saveWatched() {
   localStorage.setItem(storageKeyForLibrary(), JSON.stringify(state.watched));
+  notifyWatchStateChanged();
 }
+
+function buildWatchSnapshot() {
+  const libraries = {};
+  for (const libraryId of Object.keys(LIBRARIES)) {
+    libraries[libraryId] = cloneWatched(
+      libraryStates[libraryId]?.watched || loadWatched(libraryId)
+    );
+  }
+  return {
+    version: 1,
+    activeLibraryId,
+    libraries,
+  };
+}
+
+function applyWatchSnapshot(snapshot) {
+  if (!snapshot || typeof snapshot !== "object" || !snapshot.libraries) return false;
+  applyingRemoteSnapshot = true;
+  try {
+    for (const libraryId of Object.keys(LIBRARIES)) {
+      const remoteWatched = snapshot.libraries[libraryId];
+      if (!remoteWatched || typeof remoteWatched !== "object" || Array.isArray(remoteWatched)) continue;
+      const cleanWatched = {};
+      for (const [key, value] of Object.entries(remoteWatched)) {
+        if (value === true || value === STORED_SKIPPED_VALUE || value === MARK_SKIPPED) {
+          cleanWatched[key] = value === true ? true : STORED_SKIPPED_VALUE;
+        }
+      }
+      localStorage.setItem(storageKeyForLibrary(libraryId), JSON.stringify(cleanWatched));
+      if (libraryStates[libraryId]) {
+        libraryStates[libraryId].watched = cleanWatched;
+        libraryStates[libraryId].undoStack = [];
+        libraryStates[libraryId].redoStack = [];
+      }
+    }
+
+    const nextLibraryId = LIBRARIES[snapshot.activeLibraryId] ? snapshot.activeLibraryId : activeLibraryId;
+    if (nextLibraryId !== activeLibraryId) {
+      switchLibrary(nextLibraryId);
+    } else {
+      state = getLibraryState(activeLibraryId);
+      render();
+    }
+    return true;
+  } finally {
+    applyingRemoteSnapshot = false;
+  }
+}
+
+function notifyWatchStateChanged() {
+  if (applyingRemoteSnapshot) return;
+  window.dispatchEvent(
+    new CustomEvent("watch-state-changed", {
+      detail: buildWatchSnapshot(),
+    })
+  );
+}
+
+window.CONAN_WATCH_APP = {
+  getSnapshot: buildWatchSnapshot,
+  applySnapshot: applyWatchSnapshot,
+};
 
 function populateSources() {
   const sourceFirstNo = new Map();
